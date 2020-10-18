@@ -1,0 +1,67 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Series"
+    url: /series/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Map"
+    url: /map/
+  - title: "Video"
+    url: /video/
+  - title: "Quotes"
+    url: /quoteable-quotes/
+  - title: "Archive"
+    url: /year-archive/
+
+joshua-10-and-11:
+  - title: "Series: Joshua 10 & 11"
+    url: /series/joshua-10-and-11/
+    children:
+      - title: "1. The Problem"
+        url: /conquest-of-canaan/joshua-10-and-11-the-problem/
+      - title: "2. A Closer Look"
+        url: /conquest-of-canaan/joshua-10-and-11-a-closer-look/
+      - title: "3. Genre and Annihilation"
+        url: /conquest-of-canaan/joshua-10-and-11-genre-and-annihilation/
+      - title: "4. Genre, repetition, and redundancy"
+        url: /conquest-of-canaan/joshua-10-and-11-genre-repetition-and-redundancy/
+      - title: "5. Genre and hyperbole"
+        url: /conquest-of-canaan/joshua-10-and-11-genre-and-hyperbole/
+      - title: "6. Genre and the common narrative structure"
+        url: /conquest-of-canaan/joshua-10-and-11-genre-and-the-common-narrative-structure/
+      - title: "7. Genre and the focus on the leader"
+        url: /conquest-of-canaan/joshua-10-and-11-genre-and-the-focus-on-the-leader/
+      - title: "8. Conclusion"
+        url: /conquest-of-canaan/joshua-10-and-11-conclusion/
+
+israelite-origins:
+  - title: "Series: Israelite Origins"
+    url: /series/israelite-origins/
+    children:
+      - title: "1. An introduction"
+        url: /israelite-origins/israelite-origins-an-introduction/
+      - title: "2. The Sunday School version"
+        url: /israelite-origins/israelite-origins-the-sunday-school-version/
+      - title: "3. Putting away childish things"
+        url: /israelite-origins/israelite-origins-putting-away-childish-things/
+      - title: "4. Biblical counter-narratives"
+        url: /israelite-origins/israelite-origins-biblical-counter-narratives/
+      - title: "5. Late Date Exodus"
+        url: /israelite-origins/israelite-origins-late-date-exodus/
+      - title: "6. Working backwards"
+        url: /israelite-origins/israelite-origins-working-backwards/
+      - title: "7. Egyptian domination of Canaan"
+        url: /israelite-origins/israelite-origins-egyptian-domination-of-canaan/
+      - title: "8. The Late Bronze Age collapse"
+        url: /israelite-origins/israelite-origins-the-late-bronze-age-collapse/
+      - title: "9. Population decline and explosion"
+        url: /israelite-origins/israelite-origins-population-decline-and-explosion/
+      - title: "10. The Merneptah Stele"
+        url: /israelite-origins/israelite-origins-the-merneptah-stele/
+      - title: "11. Asher & Judah"
+        url: /israelite-origins/israelite-origins-asher-and-judah/
+      - title: "12. The Song of Deborah"
+        url: /israelite-origins/israelite-origins-the-song-of-deborah/
