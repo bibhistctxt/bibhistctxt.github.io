@@ -44,8 +44,8 @@ atom_feed:
 search: false
 
 # Build settings
-theme: minimal-mistakes-jekyll
-# remote_theme             : "mmistakes/minimal-mistakes@4.20.2"
+# theme: minimal-mistakes-jekyll
+remote_theme             : "mmistakes/minimal-mistakes@4.20.2"
 
 minimal_mistakes_skin: "default"
 
