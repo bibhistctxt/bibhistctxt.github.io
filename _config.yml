@@ -69,6 +69,7 @@ analytics:
   provider: "google" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id: "UA-98186942-2"
+    anonymize_ip: false
 
 author:
   name: "Biblical Historical Context"
