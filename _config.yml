@@ -98,6 +98,8 @@ footer:
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCB_Q970grIZHIY9lbzfYiBw"
 
+after_footer_scripts:
+  - /assets/js/reftagger.js
 
 # Exclude from processing.
 # The following items will not be processed, by default.
