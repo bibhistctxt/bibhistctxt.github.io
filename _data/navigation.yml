@@ -65,3 +65,10 @@ israelite-origins:
         url: /israelite-origins/israelite-origins-asher-and-judah/
       - title: "12. The Song of Deborah"
         url: /israelite-origins/israelite-origins-the-song-of-deborah/
+
+exodus-decoded-plagues:
+  - title: "Series: A critical assessment of the scientific explanation for the Ten Plagues in \"The Exodus Decoded\""
+    url: /series/exodus-decoded-plagues-critical-assessment/
+    children:
+      - title: "1. Lake Nyos and the First Plague"
+        url: /exodus/exodus-decoded-plagues-part-01/
