@@ -240,7 +240,7 @@ These are all improvements on _Exodus Decoded_.
 
 **Featured image**
 
-Public domain. "Dead cattle and surrounding compounds in Nyos village". Source: [https://library.usgs.gov/photo/#/item/51ddc56fe4b0f72b44720ecd](https://library.usgs.gov/photo/#/item/51ddc56fe4b0f72b44720ecd)
+Dead cattle and surrounding compounds in Nyos village. Public domain - [source](https://library.usgs.gov/photo/#/item/51ddc56fe4b0f72b44720ecd).
 
 **Footnotes**
 
