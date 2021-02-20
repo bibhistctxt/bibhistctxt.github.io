@@ -1,6 +1,5 @@
 ---
 layout: single
-# title: "The Ten Plagues in \"The Exodus Decoded\" – Plagues 2 to 6"
 title: "Continuing our critical assessment of the scientific explanation for the ten plagues in \"The Exodus Decoded\" – Plagues 2 to 6"
 date: 2021-02-20 00:01 +0100
 category: Exodus
