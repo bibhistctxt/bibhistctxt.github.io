@@ -10,6 +10,7 @@ toc: false
 header:
   image: /assets/images/israelite-origins_02-sunday-school-version/israelite_origins_the_sunday_school_version.jpg
   caption: The fall of Jericho in my old Children's Bible
+  teaser: /assets/images/israelite-origins_02-sunday-school-version/israelite_origins_the_sunday_school_version_teaser.png
 ---
 
 {% include nav_list nav="israelite-origins" %}
