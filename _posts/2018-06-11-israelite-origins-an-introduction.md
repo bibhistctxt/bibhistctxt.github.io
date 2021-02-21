@@ -9,6 +9,7 @@ toc: false
 header:
   image: /assets/images/israelite-origins_01-introduction/arnon.jpg
   caption: Looking north over the ravine that the river Arnon flows through
+  teaser: /assets/images/israelite-origins_01-introduction/arnon_teaser.png
 ---
 
 {% include nav_list nav="israelite-origins" %}
