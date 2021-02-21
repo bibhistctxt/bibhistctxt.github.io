@@ -18,4 +18,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-include-cache"
   gem "jekyll-twitter-plugin"
+  gem "jekyll-seo-tag"
 end
