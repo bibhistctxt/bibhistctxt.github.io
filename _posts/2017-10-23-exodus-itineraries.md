@@ -9,6 +9,8 @@ excerpt: "The three different journeys taken by the Israelites on the Exodus."
 toc: true
 header:
   image: /assets/images/exodus-itineraries/camels_on_the_exodus.jpg
+  caption: Walking down Jabal Musa, the traditional Mt Sinai
+  teaser: /assets/images/exodus-itineraries/camels_on_the_exodus_teaser.png
 ---
 
 Reading itineraries has a similar effect on the mind as [reading genealogies]({% link _posts/2017-10-13-ezer-elead-and-exodus.md %}). But, it’s worth ploughing through them for the same reason we should suffer the name lists – there’s often more in there than meets the eye. The Exodus itineraries are no exception.

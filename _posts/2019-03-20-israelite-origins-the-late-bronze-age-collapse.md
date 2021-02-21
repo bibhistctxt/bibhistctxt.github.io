@@ -9,6 +9,7 @@ toc: false
 header:
   image: /assets/images/israelite-origins_08-the-late-bronze-age-collapse/storm_at_dor.jpg
   caption: A storm at Tel Dor
+  teaser: /assets/images/israelite-origins_08-the-late-bronze-age-collapse/storm_at_dor_teaser.png
 ---
 
 {% include nav_list nav="israelite-origins" %}

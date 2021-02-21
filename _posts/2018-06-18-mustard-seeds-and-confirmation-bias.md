@@ -9,6 +9,7 @@ toc: false
 header:
   image: /assets/images/mustard-seeds-confirmation-bias/mustard.jpg
   caption: Mustard seeds. Millions of them.
+  teaser: /assets/images/mustard-seeds-confirmation-bias/mustard_teaser.png
 ---
 
 The past couple of days have seen an idea floating around twitter that sounds nice; it goes something like this: _Jesus didn’t use the mustard seed as his illustration for the kingdom of God because it was **small**, but because it was **illegal to sow**, and that it was an “illegal”/”banned substance”_.

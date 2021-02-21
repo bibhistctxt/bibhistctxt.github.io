@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/joshua-10-11_02-a-closer-look/upper_galilee.jpg
   caption: Upper Galilee
+  teaser: /assets/images/joshua-10-11_02-a-closer-look/upper_galilee_teaser.png
 ---
 
 {% include nav_list nav="joshua-10-and-11" %}

@@ -9,6 +9,7 @@ toc: false
 header:
   image: /assets/images/stumbling-across-unlabelled-annals-of-tiglath-pilerser-i/cupboard.jpg
   caption: "The Annals of Tiglath Pileser I sitting unloved on a shelf"
+  teaser: /assets/images/stumbling-across-unlabelled-annals-of-tiglath-pilerser-i/cupboard_teaser.png
 ---
 
 No day out to the British Museum is complete without an aimless wander around the Enlightenment Gallery. Artefacts from antiquity fill the shelves, tourists stoop over treasure-filled display cabinets, and books centuries old bare their fading, waxy spines behind glass. The opulent setting transports the weary tourist to the glory days of empire, exploration, and advancement (/waves hands furiously over horrors perpetuated in this era).

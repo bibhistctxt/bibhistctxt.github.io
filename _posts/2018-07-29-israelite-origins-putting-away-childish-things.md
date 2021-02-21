@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/israelite-origins_03-putting-away-childish-things/heshbon.jpg
   caption: The view from Heshbon, Jordan.
+  teaser: /assets/images/israelite-origins_03-putting-away-childish-things/heshbon_teaser.png
 ---
 
 {% include nav_list nav="israelite-origins" %}

@@ -6,6 +6,8 @@ category: Conquest of Canaan
 tags: Apologetics Conquest Divine-Violence
 excerpt: "A talk I gave on how an appreciation of biblical genres and archaeological evidence can help us navigate difficult passages."
 toc: false
+header:
+  teaser: /assets/images/divine-violence-video/divine-violence-video_teaser.png
 ---
 
 I recent spoke at a small event, organised for and by laypeople, on the topic of Divine Violence. Given my main area of interest, I approached the topic through the lens of the Conquest of Canaan.

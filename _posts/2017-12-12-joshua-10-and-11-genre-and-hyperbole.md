@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/joshua-10-11_05-genre-and-hyperbole/tel_dor.jpg
   caption: "'Like the sand on the sea shore' - Dor Beach, Israel"
+  teaser: /assets/images/joshua-10-11_05-genre-and-hyperbole/tel_dor_teaser.png
 ---
 
 {% include nav_list nav="joshua-10-and-11" %}

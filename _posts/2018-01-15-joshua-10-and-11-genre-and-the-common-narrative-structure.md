@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/joshua-10-11_06-genre-and-common-narrative-structure/tiglath-pileser-I-annals.jpg
   caption: "The Annals of Tiglath Pileser I"
+  teaser: /assets/images/joshua-10-11_06-genre-and-common-narrative-structure/tiglath-pileser-I-annals_teaser.png
 ---
 
 {% include nav_list nav="joshua-10-and-11" %}

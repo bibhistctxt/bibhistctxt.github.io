@@ -9,6 +9,7 @@ toc: false
 header:
   image: /assets/images/israelite-origins_06-working-backwards/maaleh_akrabim.jpg
   caption: Ma'aleh Akrabim, on the south eastern border of biblical Canaan
+  teaser: /assets/images/israelite-origins_06-working-backwards/maaleh_akrabim_teaser.png
 ---
 
 {% include nav_list nav="israelite-origins" %}

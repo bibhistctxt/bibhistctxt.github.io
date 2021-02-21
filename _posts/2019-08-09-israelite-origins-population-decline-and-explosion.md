@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/israelite-origins_09-population-decline-and-explosion/modern-settlements.jpg
   caption: A view of the Samarian hills as seen flying into Israel
+  teaser: /assets/images/israelite-origins_09-population-decline-and-explosion/modern-settlements_teaser.png
 ---
 
 {% include nav_list nav="israelite-origins" %}

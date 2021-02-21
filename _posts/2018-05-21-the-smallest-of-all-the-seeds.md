@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/smallest-of-all-the-seeds/mustard_seed.jpg
   caption: Mustard seeds - Brassica nigra
+  teaser: /assets/images/smallest-of-all-the-seeds/mustard_seed_teaser.png
 ---
 
 I recently listened to someone make a defence of a very high view of biblical inspiration. The claim was that _every word_ in the Bible was written down by authors whose involvement in the process was little more than taking dictation from God. If that’s correct, the presenter explained, it would follow that there are no errors of any kind in the Bible.

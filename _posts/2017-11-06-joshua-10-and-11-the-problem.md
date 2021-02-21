@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/joshua-10-11_01-problem/excavations_at_jericho.jpg
   caption: Excavations at Jericho
+  teaser: /assets/images/joshua-10-11_01-problem/excavations_at_jericho_teaser.png
 ---
 
 {% include nav_list nav="joshua-10-and-11" %}

@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/israelite-origins_12-song-of-deborah/taanach.jpg
   caption: The hill of Ta'anach
+  teaser: /assets/images/israelite-origins_12-song-of-deborah/taanach_teaser.png
 ---
 
 {% include nav_list nav="israelite-origins" %}

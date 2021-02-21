@@ -8,6 +8,7 @@ excerpt: "Debunking one of the crazier explanations for the Red Sea crossing."
 toc: false
 header:
   image: /assets/images/land-bridge-off-nuweiba/land-bridge-lol.jpg
+  teaser: /assets/images/land-bridge-off-nuweiba/land-bridge-lol_teaser.png
 ---
 
 Explanations for the Red Sea crossing described in Exodus 14:21-29 abound, and range from the sublime to the ridiculous. In this post we’re going to look at a claim that’s at the extremely-ridiculous end of that spectrum – the popular idea that the Israelites walked over a purported “land bridge” stretching underwater from Nuweiba, a promontory on the east coast of the Sinai Peninsula, to Saudi Arabia on the other side of the Gulf of Aqaba.

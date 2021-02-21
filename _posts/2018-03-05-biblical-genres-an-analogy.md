@@ -9,6 +9,7 @@ toc: false
 header:
   image: /assets/images/biblical-genres-an-analogy/magic_eye_hand.png
   caption: "The right hand of fellowship"
+  teaser: /assets/images/biblical-genres-an-analogy/magic_eye_hand_teaser.png
 ---
 
 Annihilation. In the genre of sports journalism it means a group of short-wearing men kicking a leather bag of air through a wooden frame many more times than the opposite group of short-wearing men kicking the same leather bag of air in the opposite direction:

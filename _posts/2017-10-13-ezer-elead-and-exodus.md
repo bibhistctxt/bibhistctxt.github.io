@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/ezer-elead-exodus/tel_zafit_cropped.jpg
   caption: Gath (Tel es Safi)
+  teaser: /assets/images/ezer-elead-exodus/tel_zafit_cropped_teaser.png
 ---
 
 The first few chapters of Chronicles are a real slog to read through. Name after name; genealogy after genealogy; tongue-twister after tongue-twister. If we force ourselves to read the chapters our eyes quickly glaze over and we tune out. But if we do that, we’ll miss out. No, seriously. In this instance we’ll see the Chronicler subtly remove both Israel’s sojourn in Egypt and the Exodus from their history.
