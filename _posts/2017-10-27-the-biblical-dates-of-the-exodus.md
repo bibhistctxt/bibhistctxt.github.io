@@ -10,6 +10,7 @@ toc: true
 header:
   image: /assets/images/biblical-dates-of-the-exodus/somewhere_near_dahab.jpg
   caption: Somewhere in the eastern Sinai Peninsula
+  teaser: assets/images/biblical-dates-of-the-exodus/somewhere_near_dahab_teaser.png
 ---
 
 When someone inquiring about the views of a friend asked me, “…and when does he think the Exodus happened?”, I responded, “1446 BC.” “Good,” he nodded approvingly, “he believes what the Bible says.”
