@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/who-shall-go-up-first-for-us-against-the-canaanites/gilgal.jpg
   caption: "The area of Gilgal"
+  teaser: /assets/images/who-shall-go-up-first-for-us-against-the-canaanites/gilgal_teaser.png
 ---
 
 In a [previous post]({% link _posts/2017-11-06-joshua-10-and-11-the-problem.md %}) in the series on [Joshua 10 and 11](/series/joshua-10-and-11/) I pointed out that it’s difficult to reconcile the conquest accounts in Joshua with other parts of scripture. Examples of irreconcilable passages were given, one of them being the first couple of verses of the book of Judges which read:
