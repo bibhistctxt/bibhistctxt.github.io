@@ -9,6 +9,7 @@ toc: false
 header:
   image: /assets/images/joshua-10-11_08-conclusion/benjamin_country.jpg
   caption: The hill country of Benjamin, looking south toward Jerusalem
+  teaser: /assets/images/joshua-10-11_08-conclusion/benjamin_country_teaser.png
 ---
 
 {% include nav_list nav="joshua-10-and-11" %}
