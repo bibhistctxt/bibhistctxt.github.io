@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/israelite-origins_07-egyptian-domination-of-canaan/beth_shean.jpg
   caption: The House of the Egyptian Governor, Beth Shean
+  teaser: /assets/images/israelite-origins_07-egyptian-domination-of-canaan/beth_shean_teaser.png
 ---
 
 {% include nav_list nav="israelite-origins" %}
