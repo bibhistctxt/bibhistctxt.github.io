@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/exodus-decoded-2/nyos_cattle.png
   caption: Cattle that died from CO<sub>2</sub> poisoning during the Lake Nyos disaster.
+  teaser: /assets/images/exodus-decoded-2/nyos_cattle_teaser.png
 ---
 
 {% include nav_list nav="exodus-decoded-plagues" %}
