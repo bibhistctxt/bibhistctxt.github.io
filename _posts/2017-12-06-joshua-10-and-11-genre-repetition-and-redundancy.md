@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/joshua-10-11_04-genre-repetition-redundancy/karnak.jpg
   caption: Karnak Temple, Egypt
+  teaser: /assets/images/joshua-10-11_04-genre-repetition-redundancy/karnak_teaser.png
 ---
 
 {% include nav_list nav="joshua-10-and-11" %}
