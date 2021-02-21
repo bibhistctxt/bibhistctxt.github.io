@@ -8,7 +8,7 @@ excerpt: "Off the beaten track in the West Bank looking for an early cult site."
 toc: false
 header:
   image: /assets/images/bull-site-visit/me_at_the_bull_site.jpg
-  caption: 
+  teaser: /assets/images/bull-site-visit/me_at_the_bull_site_teaser.png
 ---
 
 This self-indulgent post is about how I managed to locate and visit one of the most obscure and off-the-beaten-track locations in the West Bank related to early Israelite religion. You’ve probably got better things to do with your time than read through it, but you know… /shrug.
