@@ -2,7 +2,7 @@
 layout: single
 title: "The Biblical Date(s) of the Exodus – Video!"
 date: 2020-05-02 13:30 +0100
-category: Conquest of Canaan
+category: Exodus
 tags: Apologetics Chronologies Exodus
 excerpt: "A short video I put together on just when the Bible says the Exodus began."
 toc: false
