@@ -9,6 +9,7 @@ toc: false
 header:
   image: /assets/images/pig-stampede/ophir-lookout.jpg
   caption: View over Kursi toward the Sea of Galilee
+  teaser: /assets/images/pig-stampede/ophir-lookout_teaser.png
 ---
 
 A friend recently asked about the geographical problem of Mark 5 so I thought I’d write up some thoughts on the topic.
