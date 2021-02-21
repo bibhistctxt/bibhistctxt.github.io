@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/shamgar-son-of-anath/el_khadr.jpg
   caption: Solomon's Pools in El-Khadr, Bethlehem
+  teaser: /assets/images/shamgar-son-of-anath/el_khadr_teaser.png
 ---
 
 Deborah, Gideon, and Samson were judges of Israel that we hear plenty about. The record of their deeds spans numerous chapters. In the long hallways of history their exploits are displayed on sweeping tapestries spanning many metres. But hidden away in a dark corner poor Shamgar gets only a postage stamp: a single verse.
