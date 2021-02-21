@@ -9,6 +9,7 @@ toc: false
 header:
   image: /assets/images/does-jude-quote-enoch/dore_fallen_angels.jpg
   caption: Gustave Doré - Fallen Angels
+  teaser: /assets/images/does-jude-quote-enoch/dore_fallen_angels_teaser.png
 ---
 
 A few days ago I watched a twitter conversation on the topic of whether the Epistle of Jude contains a quotation from the book of Enoch or not. This question comes up every now and again, mainly because it causes problems for those that claim the Bible was dictated word-for-word by God (“verbal plenary inspiration”), believe that it doesn’t quote extra-biblical works authoritatively, and think that the bible is self-interpreting leaving us in no need of any extra-biblical context for its proper understanding (loosely, the “perspicuity of scripture”). So, let’s get down to business: does Jude quote Enoch?
