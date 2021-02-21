@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/joshua-10-11_07-genre-and-the-focus-on-the-leader/battle_scene_small.jpg
   caption: Battle scene from the great Kadesh reliefs of Rameses II on the walls of the Ramesseum
+  teaser: /assets/images/joshua-10-11_07-genre-and-the-focus-on-the-leader/battle_scene_small_teaser.png
 ---
 
 {% include nav_list nav="joshua-10-and-11" %}
