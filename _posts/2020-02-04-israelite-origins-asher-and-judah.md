@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/israelite-origins_11-asher-and-judah/asher_coast.jpg
   caption: The coastline of the tribal allotment of Asher
+  teaser: /assets/images/israelite-origins_11-asher-and-judah/asher_coast_teaser.png
 ---
 
 {% include nav_list nav="israelite-origins" %}
