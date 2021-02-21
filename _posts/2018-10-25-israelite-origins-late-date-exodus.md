@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/israelite-origins_05-late-date-exodus/somewhere_in_sinai.jpg
   caption: Somewhere in Sinai
+  teaser: /assets/images/israelite-origins_05-late-date-exodus/somewhere_in_sinai_teaser.png
 ---
 
 {% include nav_list nav="israelite-origins" %}
