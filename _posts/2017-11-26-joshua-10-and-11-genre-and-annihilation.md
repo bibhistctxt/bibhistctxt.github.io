@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/joshua-10-11_03-genre-and-annihilation/annihilation.jpg
   caption: Rameses III holds captive Nubia, Libya, and Syria – Medinet Habu relief
+  teaser: /assets/images/joshua-10-11_03-genre-and-annihilation/annihilation_teaser.png
 ---
 
 {% include nav_list nav="joshua-10-and-11" %}
