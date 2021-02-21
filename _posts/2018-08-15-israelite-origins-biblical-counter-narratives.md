@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/israelite-origins_04-biblical-counter-narratives/biankini_view.jpg
   caption: The plain of Moab
+  teaser: /assets/images/israelite-origins_04-biblical-counter-narratives/biankini_view_teaser.png
 ---
 
 {% include nav_list nav="israelite-origins" %}
