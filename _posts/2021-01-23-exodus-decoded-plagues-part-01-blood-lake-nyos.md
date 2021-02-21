@@ -9,6 +9,7 @@ toc: true
 header:
   image: /assets/images/exodus-decoded-1/lake-nyos.png
   caption: Lake Nyos, Cameroon
+  teaser: /assets/images/exodus-decoded-1/lake-nyos_teaser.png
 ---
 
 {% include nav_list nav="exodus-decoded-plagues" %}
