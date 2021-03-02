@@ -107,13 +107,13 @@ So, who or where is “Israel”?
 
 ## Merneptah’s Israel – a people or a place?
 
-Since the discovery of the Merneptah Stele, a considerable amount of noise has been made about the fact that its mention of Israel, in contrast to Canaan, Ashkelon, Gezer, Yenoam, and Hurru, is given the _people_ determinative instead of the _place_ determinative. In other words, whoever wrote the inscription thought of Israel as a _people_ rather than a _place_. Petrie explained this in an 1896 article as follows:
+Since the discovery of the Merneptah Stele, a considerable amount of noise has been made about the fact that its mention of "Israel", in contrast to Canaan, Ashkelon, Gezer, Yenoam, and Hurru, is given the _people_ determinative instead of the _place_ determinative. In other words, whoever wrote the inscription thought of "Israel" as a _people_ rather than a _place_. Petrie explained this in an 1896 article as follows:
 
 > That the name here is that of the people Israel, and not of the city Jezreel, is shown by the writing of it with s and not z, and by its being expressly a “people” unlike the other names here, which are those of “places.”[^16]
 
 This reasoning, along with its implications for what it means for understanding the relevant biblical narratives, remains the same today. For example, here’s an excerpt from Hoffmeier’s entry for the Merneptah Stele in _Context of Scripture_:
 
-It has long been noted that the writing of Israel uses the determinative (semantic indicator) for an ethnic group, and not for a geographic region or city. This scenario is in complete agreement with the picture portrayed in the books of Joshua and Judges, viz. the Israelites had no clearly defined political capital city, but were distributed over a region.[^17]
+> It has long been noted that the writing of Israel uses the determinative (semantic indicator) for an ethnic group, and not for a geographic region or city. This scenario is in complete agreement with the picture portrayed in the books of Joshua and Judges, viz. the Israelites had no clearly defined political capital city, but were distributed over a region.[^17]
 
 The same reasoning about the determinative can be found across the spectrum[^18], from very conservative[^19], conservative[^20], middle-of-the-road, [^21][^22][^23]and even minimalist works[^24].
 
