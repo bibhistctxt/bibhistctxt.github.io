@@ -64,8 +64,6 @@ It’s interesting then that Matthew locates the pigs not “on the hillside” 
 
 Let’s be clear: I know zero greek. Like, not even the alphabet. So, I’m kinda dependent on lexicons to tell me what’s what. The “at some distance” is a bit fluffy in the english – it could mean anywhere from “not far” to “miles away”. So, all a layman like me who wants to avoid “exegeting the english” can do is trust good scholarship:
 
-Let’s be clear: I know zero greek. Like, not even the alphabet. So, I’m kinda dependent on lexicons to tell me what’s what. The “at some distance” is a bit fluffy in the english – it could mean anywhere from “not far” to “miles away”. So, all a layman like me who wants to avoid “exegeting the english” can do is trust good scholarship:
-
 * BDAG: “be far away from someone or something”[^5]
 * Louw & Nida: “a position at a relatively great distance from another position—‘far, at a distance, some distance away, far away.’”[^6]
 
