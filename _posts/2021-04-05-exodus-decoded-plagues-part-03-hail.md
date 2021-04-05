@@ -74,7 +74,7 @@ So, it wasn’t written when Jacobovici needs it to have been written. It was wr
 
 It therefore has nothing to do with the Exodus narratives.
 
-Let’s pretend it was written when Jacobovici think it was… does it mention hail with fire in it? No. So, does it mention ordinary hail? No, it doesn’t mention that either. Read it for yourself here.[^4][^5][^6]
+Let’s pretend it was written when Jacobovici think it was… does it mention hail with fire in it? No. So, does it mention ordinary hail? No, it doesn’t mention that either. Read it for yourself [here](http://dlib.nyu.edu/awdl/sites/dl-pa.home.nyu.edu.awdl/files/admonitionsofegy00gard/admonitionsofegy00gard.pdf).[^4][^5][^6]
 
 The only possible similarity is in the outcome of the seventh plague – the Admonitions contains the following line,
 
@@ -86,7 +86,7 @@ When ripped out of its context that line looks like it’s describing the same t
 
 There’s no other link that could be made to the biblical text – the Ipuwer Papyrus just doesn’t mention hail at all.
 
-Perhaps tellingly, Jacobovici doesn’t repeat the claim about the hail in this blog post where he expands on the papyrus’ relevance to the seventh plague.
+Perhaps tellingly, Jacobovici doesn’t repeat the claim about the hail in [this blog post](https://blogs.timesofisrael.com/more-proof-of-the-exodus/) where he expands on the papyrus’ relevance to the seventh plague.
 
 So, I’ve no idea where he gets the idea that “the Ipuwer papyrus specifically states that Egypt was struck by a strange hail made up of ice and fire mingled together.” Because it doesn’t. It doesn’t say anything remotely like that.
 
