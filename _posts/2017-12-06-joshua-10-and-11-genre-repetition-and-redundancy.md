@@ -37,7 +37,7 @@ As we mentioned a couple of posts ago, _this isn’t prose. This isn’t history
 
 The formula is pretty clear and looks like this:
 
-<span style="color:orange">JJoshua went (? from A) with All Israel to B</span>, (? laid seige to it) <span style="color:cyan">and assaulted it</span> and took it (? that day), and <span style="color:blue">struck it with the edge of the sword</span> (? it’s king) (? and its towns) and <span style="color:brown">utterly destroyed</span> <span style="color:limegreen">every person in it</span> (? <span style="color:mediumpurple">he left no one remaining</span>), <span style="color:red">just as he’d done to A</span>.
+<span style="color:orange">Joshua went (? from A) with All Israel to B</span>, (? laid seige to it) <span style="color:cyan">and assaulted it</span> and took it (? that day), and <span style="color:blue">struck it with the edge of the sword</span> (? it’s king) (? and its towns) and <span style="color:brown">utterly destroyed</span> <span style="color:limegreen">every person in it</span> (? <span style="color:mediumpurple">he left no one remaining</span>), <span style="color:red">just as he’d done to A</span>.
 
 There are variations of course. Some phrases always appear (“_struck it with the edge of the sword_”), others appear most of the time (“_utterly destroyed_”), and others more rarely (“_and its king and its towns_”). The order of the phrases vary a little too. But the general formula is undeniable – the same words and phrases are repeated over and over in a very similar order.
 
@@ -49,7 +49,7 @@ It should be no surprise by now, but describing events in such formulaic ways is
 
 About the Joshua passage we’re looking at Hess writes,
 
-Such an annalistic style is well known in the recording of Hittite and Assyrian campaigns, where the overall pattern is repeated but specifics are altered according to the unique elements involved in capturing each town.[^2]
+> Such an annalistic style is well known in the recording of Hittite and Assyrian campaigns, where the overall pattern is repeated but specifics are altered according to the unique elements involved in capturing each town.[^2]
 
 Let’s take a look at a few examples.
 
