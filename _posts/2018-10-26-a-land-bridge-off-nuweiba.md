@@ -51,7 +51,7 @@ The paper continues with a copy of the poster that the researchers created based
 
 Again, no land bridge.
 
-From the original poster available from the [Geological Survey of Israel](http://www.gsi.gov.il/eng/?CategoryID=366&ArticleID=1105)[^4]:
+From the original poster available from the [Geological Survey of Israel](https://www.gov.il/en/departments/general/eilat-gulf-bathymetric-map)[^4]:
 
 {% include figure image_path="/assets/images/land-bridge-off-nuweiba/original_1978_map.jpg" caption="Section of original 1978 bathymetric map. Red marker indicates location of Nuweiba; yellow oval the location of the purported 'land bridge'." %}
 
@@ -68,4 +68,4 @@ So, what is this “Underwater Land Bridge” idea based on? Nothing. Zip. Nada.
 [^1]: Zvi Ben-Avraham, ‘Structural Framework of the Gulf of Elat (Aqaba), Northern Red Sea’, Journal of Geophysical Research Vol. 90, No. B1, 703-726.
 [^2]: The measurement of depth of water in oceans, seas, or lakes.
 [^3]: Sade, A., Hall, J.K., Tibor, G., Niemi, T.M., Ben-Avraham, Z., Al-Zoubi, A.A., Hartman, G., Akawwi, E., Abueladas, A.-R., and Amit, G. 2008. The Israel National Bathymetric Survey: Northern Gulf of ‘Aqaba/Elat Poster. Israel Journal of Earth Sciences Vol. 57 (2008), 139–144. Also downloadable [here](https://www.academia.edu/4622979/The_Multinational_Bathymetric_Survey_Northern_Gulf_of_Aqaba_Elat_Poster).
-[^4]: [http://www.gsi.gov.il/eng/?CategoryID=366&ArticleID=1105](http://www.gsi.gov.il/eng/?CategoryID=366&ArticleID=1105)
+[^4]: [https://www.gov.il/en/departments/general/eilat-gulf-bathymetric-map](https://www.gov.il/en/departments/general/eilat-gulf-bathymetric-map)
