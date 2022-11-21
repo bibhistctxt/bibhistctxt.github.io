@@ -12,6 +12,8 @@ header:
   teaser: /assets/images/exodus-decoded-3/accretionary-lapilli-section-teaser.png
 ---
 
+{% include nav_list nav="beyond-apologetics" %}
+
 The Tel Dan stele is a great example of the sort of archaeological discovery that apologists use to “prove the Bible true”. Sure, it mentions the “House of David”, and from an apologetics point of view, that’s pretty cool, but staying at that level can feel pretty shallow. When we dig deeper, the inscription highlights aspects of the biblical text that we might otherwise miss; aspects that force us to engage with the biblical text in more sophisticated ways than we otherwise might. And that’s way more interesting and useful than apologetic chest beating.
 
 In this post we’re going to...
@@ -50,9 +52,13 @@ There are similar quotes from other “minimalist” scholars we could have used
 
 In the far north of the modern state of Israel, at the foot of Mt Hermon and only a few meters from the border with Lebanon, lie the remains of the ancient city of Dan - the site known today as Tel Dan.
 
+{% include figure image_path="/assets/images/beyond-apologetics-tel-dan-stele/hermon_tel_dan.jpg" caption="Tel Dan at the foot of Mt Hermon" %}
+
 Being one of the sources of the river Jordan, it’s a beautiful, green site and a welcome relief from the summer heat for tourists visiting the Holy Land.
 
 Excavations began at Tel Dan in 1963, and even before the stele was discovered the site was famous for the discovery of what’s known as “Abraham’s Gate” –a well preserved Middle Bronze mudbrick gate– and the “High Place”, said to be the altar built by Jeroboam.
+
+{% include figure image_path="/assets/images/beyond-apologetics-tel-dan-stele/mud_brick_gate.jpg" caption="Middle Bronze mud brick gate at Tel Dan, AKA _Abraham's Gate_" %}
 
 But it was in 1993 that the site’s most significant discovery would take place.[^3]
 
@@ -68,6 +74,8 @@ Cook’s surveying equipment was bulky so on the way back to the car she set som
 
 She called Biran over, they freed the slab, and they could make out the letters of an inscription as clear as day.
 
+{% include figure image_path="/assets/images/beyond-apologetics-tel-dan-stele/find_sites_a.jpg" caption="The find site of Fragment A at Tel Dan" %}
+
 ## Initial publication
 
 As many scholars have noted, Biran was quick to get the inscription published, something he did with Joseph Naveh, a Professor of West Semitic Epigraphy and Palaeography at the Institute of Archaeology at the Hebrew University of Jerusalem.
@@ -77,6 +85,8 @@ When their article entitled “_An Aramaic Stele Fragment from Tel Dan_” was p
 The reason for the global interest was because of what was found on the 9th line of the inscription. According to Biran and Naveh it read:
 
 > And [I] slew [... the kin-]g of the House of David.[^4]
+
+{% include figure image_path="/assets/images/beyond-apologetics-tel-dan-stele/fragment_a.jpg" caption="Fragment A of the Tel Dan Stele; the phrase 'House of David' is highlighted" %}
 
 This was, to understate things, a massive deal. This was earth shaking stuff. _The House of David_.
 
@@ -234,7 +244,11 @@ What really drove the last nails into the coffin of “it’s a forgery!”/“i
 
 The area just north of where the first piece of the stele was found was a whole load of debris. As it was being excavated they found what eventually turned out to be a “High Place”. 2 meters south of it, lying in the debris 80cm above the current ground level, the second piece of the stele was found by Area Supervisor Malka Hershkovitz. They called this new piece “B1”.[^27]
 
+{% include figure image_path="/assets/images/beyond-apologetics-tel-dan-stele/find_sites_a_b1_b2.jpg" caption="The find sites of Fragments A, B1, and B2" %}
+
 Then, in the same excavation season, Gila Gook –who’d found the first piece of the stele– was excavating the pavement behind the “High Place”. As she stuck a measuring rod into the base of the wall she spotted a 3rd piece of the stele, which they called “B2”.[^28]
+
+{% include figure image_path="/assets/images/beyond-apologetics-tel-dan-stele/fragments_a_b1_b2.jpg" caption="Fragments A, B1, and B2 of the Tel Dan Stele" %}
 
 And, to this day, that’s as much of the stele has been found.
 
@@ -251,6 +265,8 @@ He goes on to explain that the join between fragment A and B that Biran and Nave
 André Lemaire, a french epigrapher, Director of Studies at the École Pratique des Hautes Études also wrote saying,
 
 > …I have checked myself, in the Hebrew Union College museum, the placement of fragments A and B and I agree with the presentation of the editio princeps which seems to me the most probable, even if not practically certain.[^33]
+
+{% include figure image_path="/assets/images/beyond-apologetics-tel-dan-stele/fragments_together.jpg" caption="Fitting fragments A, B1, and B2 together" %}
 
 So, apart from a couple of scholars who say that either fragment A and B should be arranged vertically rather than side to side, or that they just aren’t related at all –suggested, no surprise, by our minimalist friend Cryer (who naturally says that it’s “_a foregone conclusion that Dan A has nothing to do with Dan B_”[^34]), pretty much everyone goes with the arrangement suggested by Biran and Naveh in the article they published fragment B in.
 
@@ -300,6 +316,8 @@ And the king of I[s-]
 It’s written in a dialect of Old Aramaic[^41], and even without the “House of David” bit it’s a massively significant find for those who study the way Aramaic developed over time and in different areas.
 
 There is a whole ton of fascinating stuff in the inscription, but what we’re going to concentrate on in this post are lines 7, 8, and 9. Because, though finding “House of David” was cool, it’s the what the rest of the sentence it was found in says that should make Christians sit up and pay attention.
+
+{% include figure image_path="/assets/images/beyond-apologetics-tel-dan-stele/lines_translated.jpg" caption="Joram, Ahaziah, and the House of David on the Tel Dan Stele" %}
 
 ### Ahaziah and Joram named
 
@@ -372,6 +390,8 @@ Also, since the family trees involved here are pretty hairy we’ll put them to 
 * 2 Ki 9:24 Jehu then shoots Joram in the heart, killing him.
 * 2 Ki 9:27 When Ahaziah sees this he flees almost due south, probably heading back to his southern kingdom of Judah, but Jehu chases him (around ~13km!), catches up with him next to a place called Ibleam, and shoots him. The arrow doesn’t kill Ahaziah immediately. Instead Ahaziah turns around and heads north-west for Megiddo. He reaches the city, but dies there shortly thereafter.
 
+{% include figure image_path="/assets/images/beyond-apologetics-tel-dan-stele/events_sequence_2kings.jpg" caption="The sequence of events in 2 Kings 9" %}
+
 ## A contradiction
 
 Clearly, this doesn’t line up with the inscription on the Tel Dan stele.
@@ -417,6 +437,8 @@ Like we did for 2 Kings 9, here’s a summary of the action in 2 Chronicles 22 (
 * 2 Chr 22:7 Ahaziah goes out with Joram to meet Jehu
 * 2 Chr 22:8 While wiping out Joram’s extended family, Jehu comes across Ahaziah’s nephews and officials, and kills them too
 * 2 Chr 22:9 Jehu then goes looking for Ahaziah, who’d been captured hiding in Samaria. He was brought to Jehu who executed him.
+
+{% include figure image_path="/assets/images/beyond-apologetics-tel-dan-stele/events_sequence_2chron.jpg" caption="The sequence of events in 2 Chronicles 22" %}
 
 That is quite… “different”. Putting aside the inscription on the Tel Dan stele for a moment, what we’ve got here is a contradiction between two Biblical narratives from parts of the Bible we commonly think of primarily as history writing:
 
