@@ -4,7 +4,7 @@ title: "The Tel Dan Stele: Beyond Apologetics"
 date: 2022-01-03 00:01 +0100
 category: Beyond Apologetics
 tags: Beyond-Apologetics Apologetics Dealing-with-Discrepancies Inscriptions Tel-Dan-Stele Israel-Museum Jehu Jehoram Ahaziah Hazael
-excerpt: "How and where the Tel Dan Stele was found, what it says, what scholars said about it, and how it shows that scripture sometimes doesn't work the way we think it does"
+excerpt: "The Tel Dan Stele's discovery, the debate it caused, and how it shows that scripture sometimes doesn't work the way we think it does."
 toc: true
 header:
   image: /assets/images/beyond-apologetics-tel-dan-stele/tel_dan_stele_on_map.jpg
