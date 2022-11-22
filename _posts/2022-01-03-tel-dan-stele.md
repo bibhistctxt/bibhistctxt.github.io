@@ -4,13 +4,19 @@ title: "The Tel Dan Stele: Beyond Apologetics"
 date: 2022-01-03 00:01 +0100
 category: Beyond Apologetics
 tags: Beyond-Apologetics Apologetics Dealing-with-Discrepancies Inscriptions Tel-Dan-Stele Israel-Museum Jehu Jehoram Ahaziah Hazael
-excerpt: "How and where the Tel Dan Stele was found, what it says, what scholars said about it, and how shows that scripture sometimes doesn't work the way we think it does"
+excerpt: "How and where the Tel Dan Stele was found, what it says, what scholars said about it, and how it shows that scripture sometimes doesn't work the way we think it does"
 toc: true
 header:
   image: /assets/images/exodus-decoded-3/accretionary-lapilli-section.png
   caption: Section of a 10mm wide accretionary lapillus
   teaser: /assets/images/exodus-decoded-3/accretionary-lapilli-section-teaser.png
 ---
+
+This post is available as a two-part youtube video. Scroll down for the post itself.
+
+{% include video id="rtt6YIz1MHk" provider="youtube" %}
+
+{% include video id="Sg8TqMvXSfw" provider="youtube" %}
 
 {% include nav_list nav="beyond-apologetics" %}
 
@@ -60,9 +66,11 @@ Excavations began at Tel Dan in 1963, and even before the stele was discovered t
 
 {% include figure image_path="/assets/images/beyond-apologetics-tel-dan-stele/mud_brick_gate.jpg" caption="Middle Bronze mud brick gate at Tel Dan, AKA _Abraham's Gate_" %}
 
-But it was in 1993 that the site’s most significant discovery would take place.[^3]
+But it was in 1993 that the site’s most significant discovery would take place.
 
-## How the 1st section was discovered[^3]
+## How the 1st section was discovered
+
+(Sequence of events reconstructed from various sources[^3])
 
 In 1993, the site was being excavated by Director of the Nelson Glueck School of Biblical Archaeology at Hebrew Union College, Avraham Biran.
 
