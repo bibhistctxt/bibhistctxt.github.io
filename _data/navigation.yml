@@ -76,3 +76,10 @@ exodus-decoded-plagues:
         url: /exodus/exodus-decoded-plagues-part-02-plagues-2-to-6/
       - title: "3. Plague 7: Hail"
         url: /exodus/exodus-decoded-plagues-part-03-hail/
+
+beyond-apologetics:
+  - title: "Series: Beyond Apologetics"
+    url: /series/beyond-apologetics/
+    children:
+      - title: "1. The Tel Dan Stele"
+        url: /beyond-apologetics/tel-dan-stele/
