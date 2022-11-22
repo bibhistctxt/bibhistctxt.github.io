@@ -6,12 +6,12 @@ on:
       - main
 
 jobs:
-  github-pages:
+  jekyll:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@2.2.0
-        with:
-          token: ${{ secrets.JEKYLL_PAT }}
-          jekyll_env: production
-          target_branch: 'gh-pages'
+    - uses: actions/checkout@v2
+    - uses:  helaili/jekyll-action@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        jekyll_env: production
+        target_branch: 'gh-pages'
