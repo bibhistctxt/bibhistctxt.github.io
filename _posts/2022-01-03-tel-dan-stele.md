@@ -7,16 +7,12 @@ tags: Beyond-Apologetics Apologetics Dealing-with-Discrepancies Inscriptions Tel
 excerpt: "How and where the Tel Dan Stele was found, what it says, what scholars said about it, and how it shows that scripture sometimes doesn't work the way we think it does"
 toc: true
 header:
-  image: /assets/images/exodus-decoded-3/accretionary-lapilli-section.png
-  caption: Section of a 10mm wide accretionary lapillus
-  teaser: /assets/images/exodus-decoded-3/accretionary-lapilli-section-teaser.png
+  image: /assets/images/beyond-apologetics-tel-dan-stele/tel_dan_stele_on_map.jpg
+  caption: The Tel Dan Stele
+  teaser: /assets/images/beyond-apologetics-tel-dan-stele/tel_dan_stele_on_map_teaser.jpg
 ---
 
-This post is available as a two-part youtube video. Scroll down for the post itself.
-
-{% include video id="rtt6YIz1MHk" provider="youtube" %}
-
-{% include video id="Sg8TqMvXSfw" provider="youtube" %}
+**NB**: This post is available as a [two-part youtube video]({% link _pages/series_beyond-apologetics.md %}).
 
 {% include nav_list nav="beyond-apologetics" %}
 

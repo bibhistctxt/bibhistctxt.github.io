@@ -10,6 +10,12 @@ Christian apologists often handle archaeological discoveries in pretty shallow w
 
 ## Videos
 
+### The Tel Dan Stele
+
 {% include video id="rtt6YIz1MHk" provider="youtube" %}
 
 {% include video id="Sg8TqMvXSfw" provider="youtube" %}
+
+### The Merneptah Stele
+
+{% include video id="GyGFjBagm8I" provider="youtube" %}
