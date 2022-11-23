@@ -634,13 +634,9 @@ Zooming out a little from Kings and Chronicles, to properly understand any bibli
 
 So, the Tel Dan Stele. Apologists are right that the House of David bit is cool, but when we go beyond apologetics we’ll find so much more that’s useful if we’ll let our assumptions be challenged by it and what it points to.
 
-**Further reading**
-
-* sheufisdfsd
-
 **Featured image**
 
-sdhfisndfksdl
+The Tel Dan Stele superimposed on the Survey of Israel map of the relevant area.
 
 **Footnotes**
 
