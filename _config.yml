@@ -263,7 +263,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: false
-      share: false
+      share: true
       related: true
       toc_sticky: true
   - scope:
@@ -274,5 +274,5 @@ defaults:
       author_profile: true
       read_time: false
       comments: false
-      share: false
+      share: true
       related: false
