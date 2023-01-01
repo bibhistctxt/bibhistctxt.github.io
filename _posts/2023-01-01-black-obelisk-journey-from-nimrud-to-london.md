@@ -7,9 +7,9 @@ tags: Site-Visit Tin Late-Bronze-Age
 excerpt: "'One of the knottiest problems in the archaeology of metal sources.'"
 toc: true
 header:
-  image: /assets/images/from-cornwall-to-canaan/mothecombe-beach-erme-estuary.jpg
+  image: /assets/images/black-obelisk-journey-from-nimrud-to-london/discovery_disaster_display.jpg
   caption: Mothecombe Beach in the Erme Estuary, Southern Devonshire Coast, England
-  teaser: /assets/images/from-cornwall-to-canaan/mothecombe-beach-erme-estuary_teaser.png
+  teaser: /assets/images/black-obelisk-journey-from-nimrud-to-london/discovery_disaster_display_teaser.jpg
 ---
 
 While preparing my next Beyond Apologetics video on the Black Obelisk of Shalmaneser III, I got a bit distracted reading up on how the artefact was transported from Nimrud in Iraq where it was discovered to the British Museum. One minute I’m reading about the trench it was found in, the next minute I’m reading 19th century shipping logs of the East India Company. Since all the info I found was completely inconsequential to the stuff I usually cover in the Beyond Apologetics videos, I decided to split this stuff out into a separate, uber-niche, and super-nerdy video dedicated to the Obelisk’s journey. It should be interesting to about 3 people.
