@@ -26,144 +26,223 @@ Let’s get started.
 
 In November 1845, a man whose name is well known to anyone with even a passing interest in Assyriology, arrived in Mosul – a town in modern day northern Iraq, in the area known at that time as “Turkish Arabia”.
 
-Austen Henry Layard, according to one of his friends, was the man for the task at hand. He was described by one guy as being “excellently fitted for the work of an explorer and excavator, strong, robust, determined, … active, energetic, and inured to hardship by his previous travels in wild regions.”1
+Austen Henry Layard, according to one of his friends, was the man for the task at hand. He was described by one guy as being “excellently fitted for the work of an explorer and excavator, strong, robust, determined, … active, energetic, and inured to hardship by his previous travels in wild regions.”[^1]
 
-And that’s what Layard had come for – to excavate a site he’d come across on his previous trips. Funded by Sir Stratford Canning, the British ambassador to Constantinople2, Layard’s objective was to excavate Nimrud, a site down the river from Mosul that at the time he thought was Nineveh. It would be quite a while before he figured out that Nimrud wasn’t Nineveh, but that’s a different story.
+And that’s what Layard had come for – to excavate a site he’d come across on his previous trips. Funded by Sir Stratford Canning, the British ambassador to Constantinople[^2], Layard’s objective was to excavate Nimrud, a site down the river from Mosul that at the time he thought was Nineveh. It would be quite a while before he figured out that Nimrud wasn’t Nineveh, but that’s a different story.
 
-On November 8th 1845, after presenting his credentials to the local government3 and telling the locals that he was sailing downstream to hunt wild boars, Layard hopped on a raft he’d hurriedly built for the occasion, and floated down the Tigris. Around 5 hours later Layard arrived at Nimrud,  disembarked, and had a wander around.4
+On November 8th 1845, after presenting his credentials to the local government[^3] and telling the locals that he was sailing downstream to hunt wild boars, Layard hopped on a raft he’d hurriedly built for the occasion, and floated down the Tigris. Around 5 hours later Layard arrived at Nimrud,  disembarked, and had a wander around.[^4]
 
 [MAP OF TIGRIS, CAMP, and NIMRUD]
 
 After a few days poking around, he set up camp – you can see it on this map, very close to the mound of Nimrud where he was excavating.
 
-For several months he and the local workmen he’d hired for the job made great progress, focusing mainly in a couple of areas – excavating what are now known as the North-West and South-West palaces. He also opened experimental trenches all over the mound5 and found some pretty awesome stuff in them too.
+For several months he and the local workmen he’d hired for the job made great progress, focusing mainly in a couple of areas – excavating what are now known as the North-West and South-West palaces. He also opened experimental trenches all over the mound[^5] and found some pretty awesome stuff in them too.
 
-[LAYARD’S MAP WITH THE ‘J’ MARKER] One of these experimental trenches was dug in the “central area” of the mound, marked ‘J’ on Layard’s maps. There they found “part of a pair of gigantic winged bulls, the head and half the wings of which had been destroyed”.6 Bizarrely, because Layard’s maps weren’t all that accurate, nor was his description of where the “central area” was located on the mound, excavators that came after Layard couldn’t locate these “central area” trenches. It would be more than 125 years after they were first dug that the trenches would be rediscovered in the Polish excavations of 1974-1976’ second season.7
+[LAYARD’S MAP WITH THE ‘J’ MARKER] One of these experimental trenches was dug in the “central area” of the mound, marked ‘J’ on Layard’s maps. There they found “part of a pair of gigantic winged bulls, the head and half the wings of which had been destroyed”.[^6] Bizarrely, because Layard’s maps weren’t all that accurate, nor was his description of where the “central area” was located on the mound, excavators that came after Layard couldn’t locate these “central area” trenches. It would be more than 125 years after they were first dug that the trenches would be rediscovered in the Polish excavations of 1974-1976’ second season.[^7]
 
 [[SEE BARRETT AND FALKNER 1962, pdf page 31 FOR LAYARD’S ANNOTATED MAP]]
 
 Over the course of his excavations Layard suffered various delays, mainly at the hands of the local authorities. The worst of it was over the summer of 1846 when he was completely stalled, but, after some negotiations Layard was able to get back to it.
 
-On November 1st 18468, he had his working parties start digging at a number of different places on the mound, including back in the trench marked “J” in the “central area” where around the same time the year before he’d found the remains of those two winged bull statues.9 Nothing of any interest was found there, so he had his men dig a trench behind one of the bulls and follow it along for several days. When it reached around 50 feet long, Layard almost gave up on the trench. He let the workmen continue with it while he had business for a day back in Mosul deciding that if they’d still found nothing by the time he returned that he’d give up on the trench.10
+On November 1st 1846[^8], he had his working parties start digging at a number of different places on the mound, including back in the trench marked “J” in the “central area” where around the same time the year before he’d found the remains of those two winged bull statues.[^9] Nothing of any interest was found there, so he had his men dig a trench behind one of the bulls and follow it along for several days. When it reached around 50 feet long, Layard almost gave up on the trench. He let the workmen continue with it while he had business for a day back in Mosul deciding that if they’d still found nothing by the time he returned that he’d give up on the trench.[^10]
 
-After giving his men instructions Layard galloped off for Mosul. He’d hardly gone far at all when, back in the trench, his workmen found the corner of what ended up being the Black Obelisk. They uncovered the 6 foot length of it and the superintendent sent someone after Layard, who turned back straight away. On his return Layard and his men pulled the obelisk out of the trench using ropes, and stood the obelisk upright.11
+After giving his men instructions Layard galloped off for Mosul. He’d hardly gone far at all when, back in the trench, his workmen found the corner of what ended up being the Black Obelisk. They uncovered the 6 foot length of it and the superintendent sent someone after Layard, who turned back straight away. On his return Layard and his men pulled the obelisk out of the trench using ropes, and stood the obelisk upright.[^11]
 
-And, that was the only thing they found in that 50 foot long trench. The excavations run by the British School of Archaeology in Iraq in 1952 dug in what they hoped was the same area of Layard’s “central area” trench but also found nothing.12 The trench produced one obelisk. That’s it.
+And, that was the only thing they found in that 50 foot long trench. The excavations run by the British School of Archaeology in Iraq in 1952 dug in what they hoped was the same area of Layard’s “central area” trench but also found nothing.[^12] The trench produced one obelisk. That’s it.
 
-But what an obelisk! In a letter to his aunt Sarah Layard wrote that the “most remarkable discovery”, referring to the obelisk, was “one of the most interesting and unique monuments of antiquity”.13 Layard’s colleague Rawlinson, downriver in Baghdad, who we’ll meet in a couple of minutes, wrote to Layard exclaiming that he considered it, “the most notable trophy in the world and would alone have been well worth the whole expense of excavating Nimrud.”14 So, the obelisk was a big deal, and remains a big deal to this day.
+But what an obelisk! In a letter to his aunt Sarah Layard wrote that the “most remarkable discovery”, referring to the obelisk, was “one of the most interesting and unique monuments of antiquity”.[^13] Layard’s colleague Rawlinson, downriver in Baghdad, who we’ll meet in a couple of minutes, wrote to Layard exclaiming that he considered it, “the most notable trophy in the world and would alone have been well worth the whole expense of excavating Nimrud.”[^14] So, the obelisk was a big deal, and remains a big deal to this day.
 
-[LAYARD’S SKETCHES] As soon as Layard and his men had yoinked the obelisk out of the trench, he set about taking rubbings of it, as well as sketches which he published a couple of years later in a beautifully produced book, imaginatively named “The Monuments of Nineveh, from drawings made on the spot”.15
+[LAYARD’S SKETCHES] As soon as Layard and his men had yoinked the obelisk out of the trench, he set about taking rubbings of it, as well as sketches which he published a couple of years later in a beautifully produced book, imaginatively named “The Monuments of Nineveh, from drawings made on the spot”.[^15]
 
-After making his sketches, Layard packed up the obelisk ready to be transported with the next batch of artefacts addressed to the British Museum, and, as he explains in his book, “A party of trustworthy Arabs were chosen to sleep near it at night; and I took every precaution that the superstitions and prejudices of the natives of the country, and the jealousy of rival antiquaries, could suggest.”16 He wasn’t taking any chances. The obelisk was not going to get robbed.
+After making his sketches, Layard packed up the obelisk ready to be transported with the next batch of artefacts addressed to the British Museum, and, as he explains in his book, “A party of trustworthy Arabs were chosen to sleep near it at night; and I took every precaution that the superstitions and prejudices of the natives of the country, and the jealousy of rival antiquaries, could suggest.”[^16] He wasn’t taking any chances. The obelisk was not going to get robbed.
 
 # From Nimrud to Basrah
 
-A few weeks later the consignment was ready – Christmas day was the day. In what is the closing scene of his book Layard describes how he had his men load all the artefacts onto what he described as “rotten and unwieldy” buffalo carts that would cover the short distance from the mound of Nimrud to the Tigris river, and how at the river bank he had them loaded onto rafts bound for Baghdad.17 The last line of his book goes like this: “I watched them until they were out of sight, and then gallopped [sic] into Mosul to celebrate the festivities of the season, with the few Europeans whom duty or business had collected in this remote corner of the globe.”18 What a life.
+A few weeks later the consignment was ready – Christmas day was the day. In what is the closing scene of his book Layard describes how he had his men load all the artefacts onto what he described as “rotten and unwieldy” buffalo carts that would cover the short distance from the mound of Nimrud to the Tigris river, and how at the river bank he had them loaded onto rafts bound for Baghdad.[^17] The last line of his book goes like this: “I watched them until they were out of sight, and then gallopped [sic] into Mosul to celebrate the festivities of the season, with the few Europeans whom duty or business had collected in this remote corner of the globe.”[^18] What a life.
 
 As mentioned previously, this is where the obelisk’s trail goes cold in Layard’s book. Thankfully, at least for this nerd, there’s a whole ton of documentation that illustrates what happened to the obelisk between Nimrud and the British Museum. We’re going to get into that now.
 
 [[MAP OF TIGRIS FROM NIMRUD TO BASRAH]] The first stop on the journey was the capital, Baghdad. When the rafts from Nimrud arrived in early January 1847 they were received by Sir Henry Creswicke Rawlinson, a political agent and employee of the British East India company, stationed in Baghdad. He was also quite the “Orientalist”, and explored ancient sites, copied inscriptions, and worked on the decipherment of cuneiform writing – there’s a bit of intrigue in that last bit, with Rawlinson getting a bit more credit than he actually deserved, but that’s a story for another time.
 
-With Rawlinson stationed at Baghdad, he took charge of the artefacts Layard had floated downstream, sending them on to the port city of Basrah. But, before sending them on, Rawlinson took some liberties. British Assyriologist Cyril Gadd writing a couple of generations later tells us that Rawlinson inspected the artefacts “with the interest of one who was conscious that they meant more to him than to any other man living”.19 Rawlinson’s son, in his father’s biography wrote that, “Rawlinson was enjoying the full advantage of free access to the Ninevite treasures on their passage through Baghdad to England… In letters to the Royal Asiatic Society dated January 23, June 19, and November 3, 1847, he began the publication of his views on the subject of the Assyrian alphabet and language, and especially gave an account of the inscription of the famous ‘Black Obelisk’...”20
+With Rawlinson stationed at Baghdad, he took charge of the artefacts Layard had floated downstream, sending them on to the port city of Basrah. But, before sending them on, Rawlinson took some liberties. British Assyriologist Cyril Gadd writing a couple of generations later tells us that Rawlinson inspected the artefacts “with the interest of one who was conscious that they meant more to him than to any other man living”.[^19] Rawlinson’s son, in his father’s biography wrote that, “Rawlinson was enjoying the full advantage of free access to the Ninevite treasures on their passage through Baghdad to England… In letters to the Royal Asiatic Society dated January 23, June 19, and November 3, 1847, he began the publication of his views on the subject of the Assyrian alphabet and language, and especially gave an account of the inscription of the famous ‘Black Obelisk’...”[^20]
 
 That’s out-and-out intellectual property theft, and from other stuff I’ve read it seems pretty characteristic of Rawlinson. Not sure that sort of thing would be tolerated in academic circles today…
 
-So, the obelisk’s journey didn’t get off to a good start. [[MAP OF TIGRIS FROM NIMRUD TO BASRAH]] But, at least once Rawlinson was done taking his liberties, he did put the artefacts back on “native river craft” and sent them downstream to Basrah, and on arrival in April (1847) they were stored in the East India Company’s naval depot ready for onward shipping.21 And that was the next hurdle.
+So, the obelisk’s journey didn’t get off to a good start. [[MAP OF TIGRIS FROM NIMRUD TO BASRAH]] But, at least once Rawlinson was done taking his liberties, he did put the artefacts back on “native river craft” and sent them downstream to Basrah, and on arrival in April (1847) they were stored in the East India Company’s naval depot ready for onward shipping.[^21] And that was the next hurdle.
 
 # To Bombay after long delay
 
 Steam ships weren’t really yet a thing, and it would be more than 20 years before the Suez Canal was opened, so to get to London the Obelisk was to take the normal form of global transport in what was known as the Age of Sail – a sailing ship. But to get on a proper sail ship the obelisk first had to make its way to a major port. The closest one to Basrah was 3,000 km away in Bombay, or as it’s known today, Mumbai. So, getting to Bombay was the plan.
 
-But, for now, the obelisk along with the rest of the artefacts it floated down river with, was stuck in Basrah. As Gadd notes, “conveying [the obelisk] farther, on the way to Bombay or England, proved a difficult problem,”22 because “trade was almost completely stagnant in the Gulf at that time, and the visit of any European vessel to Basrah a rarity.”23 So the artefacts collected dust in some storage unit in Basrah’s East India Company naval depot. Occasionally a ship large enough to transport the artefacts came into port, but for one reason or another the instruction to transport the artefacts wasn’t received by the captain, or was just plain ignored.24
+But, for now, the obelisk along with the rest of the artefacts it floated down river with, was stuck in Basrah. As Gadd notes, “conveying [the obelisk] farther, on the way to Bombay or England, proved a difficult problem,”[^22] because “trade was almost completely stagnant in the Gulf at that time, and the visit of any European vessel to Basrah a rarity.”[^23] So the artefacts collected dust in some storage unit in Basrah’s East India Company naval depot. Occasionally a ship large enough to transport the artefacts came into port, but for one reason or another the instruction to transport the artefacts wasn’t received by the captain, or was just plain ignored.[^24]
 
-Spring turned into summer; autumn came and went, and by December Layard was back in London having travelled via Constantinople, Italy, and Paris.25 In the same month, out of exasperation I presume, Rawlinson came down from Baghdad to Basrah. In what was great timing, while he was there the East India Company Sloop-of-War Clive arrived at the port. Rawlinson instructed the captain to transport the artefacts to Bombay who responded that he’d do the best he could. But, Sloops-of-War weren’t big ships and he was only able to take 20 cases, and, only as far as Bushehr in what today is modern Iran – a measly 350km of the 3000km journey to Bombay.26
+Spring turned into summer; autumn came and went, and by December Layard was back in London having travelled via Constantinople, Italy, and Paris.[^25] In the same month, out of exasperation I presume, Rawlinson came down from Baghdad to Basrah. In what was great timing, while he was there the East India Company Sloop-of-War Clive arrived at the port. Rawlinson instructed the captain to transport the artefacts to Bombay who responded that he’d do the best he could. But, Sloops-of-War weren’t big ships and he was only able to take 20 cases, and, only as far as Bushehr in what today is modern Iran – a measly 350km of the 3000km journey to Bombay.[^26]
 
-At least, the obelisk was finally on its way – a good job too as the next shipment of artefacts wouldn’t take place for another year!27
+At least, the obelisk was finally on its way – a good job too as the next shipment of artefacts wouldn’t take place for another year![^27]
 
-As the captain of the Clive agreed, they transported the cases as far as Bushehr, unloading Layard’s artefacts there. Fortunately for Layard, Senior Naval Officer Captain William Lowe had sailed into Bushehr harbour on the 1st of January 1848 after a successful mission retrieving a couple of boats that had been stolen by some local sheikh.28 Layard’s artefacts, including the obelisk, were loaded onto Captain Lowe’s ship; another Sloop-of-War named the Elphinstone. 
+As the captain of the Clive agreed, they transported the cases as far as Bushehr, unloading Layard’s artefacts there. Fortunately for Layard, Senior Naval Officer Captain William Lowe had sailed into Bushehr harbour on the 1st of January 1848 after a successful mission retrieving a couple of boats that had been stolen by some local sheikh.[^28] Layard’s artefacts, including the obelisk, were loaded onto Captain Lowe’s ship; another Sloop-of-War named the Elphinstone. 
 
-An obscure passage in Volume 2 of Charles Rathbone Low’s History of the Indian Navy explains that sometime in January the Elphinstone set off with the obelisk on board, arriving in Bombay sometime later in January.29 (Not the same Low as captained the Elphinstone)
+An obscure passage in Volume 2 of Charles Rathbone Low’s History of the Indian Navy explains that sometime in January the Elphinstone set off with the obelisk on board, arriving in Bombay sometime later in January.[^29] (Not the same Low as captained the Elphinstone)
 
 And it’s in Bombay where things really start going wrong.
 
 # Barbarity in Bombay
 
-It’s not exactly clear what precise date the Elphinstone arrived in Bombay harbour, but a report on the 5th of February 1848 in the Fine Arts column of the London paper The Athenaeum reports on a report in the Bombay Times reporting on the arrival of “cultured slabs from Mosul, forwarded by Major Rawlinson to the Governor”.30 When Layard first read this report he was so confused by its garbled details that he didn’t know if the report in question was about his artefacts at all!31
+It’s not exactly clear what precise date the Elphinstone arrived in Bombay harbour, but a report on the 5th of February 1848 in the Fine Arts column of the London paper The Athenaeum reports on a report in the Bombay Times reporting on the arrival of “cultured slabs from Mosul, forwarded by Major Rawlinson to the Governor”.[^30] When Layard first read this report he was so confused by its garbled details that he didn’t know if the report in question was about his artefacts at all![^31]
 
-It was the chain of command in the British Empire’s hierarchy that the Resident at Baghdad reported to the Governor at Bombay,32 so regardless of the fact that the cases of artefacts were addressed to the Trustees of the British Museum, Rawlinson had sent the artefacts to Bombay for the attention of “The Governor”33.  The Governor of Bombay was one George Russell Clerk.34
+It was the chain of command in the British Empire’s hierarchy that the Resident at Baghdad reported to the Governor at Bombay,[^32] so regardless of the fact that the cases of artefacts were addressed to the Trustees of the British Museum, Rawlinson had sent the artefacts to Bombay for the attention of “The Governor”[^33].  The Governor of Bombay was one George Russell Clerk.[^34]
 
 On the Ephinstone’s arrival the cases that had been so carefully packed by Layard and repacked by Rawlinson were unloaded onto the dockside and unceremoniously opened by Clerk’s people.
 
-Again, a note in The Athenaeum’s “Fine-Art Gossip” column helps to fill in the gaps. June 24th 1848’s column35 brought its readers’ attention to a Bombay Times article mentioning an exhibition of Layard’s Artefacts. And, it wasn’t just one or two small items that were on display; from the description given in the Bombay Times article quoted by The Athenaeum, it was loads of items. But for our purposes, here’s the interesting part: after listing off all sorts of items the Bombay Times article mentions,
+Again, a note in The Athenaeum’s “Fine-Art Gossip” column helps to fill in the gaps. June 24th 1848’s column[^35] brought its readers’ attention to a Bombay Times article mentioning an exhibition of Layard’s Artefacts. And, it wasn’t just one or two small items that were on display; from the description given in the Bombay Times article quoted by The Athenaeum, it was loads of items. But for our purposes, here’s the interesting part: after listing off all sorts of items the Bombay Times article mentions,
 
-“The principal object of attention was a beautiful obelisk of black marble, six feet high, and in the most perfect state of preservation, – the polish unaffected by three thousand years of inhumation, and the lustre hardly gone”36 and then it goes into an accurate description of the Black Obelisk.
+“The principal object of attention was a beautiful obelisk of black marble, six feet high, and in the most perfect state of preservation, – the polish unaffected by three thousand years of inhumation, and the lustre hardly gone”[^36] and then it goes into an accurate description of the Black Obelisk.
 
-Now, if you think these objects were displayed in some temporary exhibition in a properly equipped museum, you’d be wrong. They were displayed in the dockyard.37
+Now, if you think these objects were displayed in some temporary exhibition in a properly equipped museum, you’d be wrong. They were displayed in the dockyard.[^37]
 
-The person responsible for the artefacts’ display was one Dr. Buist: a preacher, the Editor of the Bombay Times38, “the city’s leading scientist”39, a frequent contributor of scholarly articles to the Journal of the Bombay Branch of the Royal Asiatic Society, and a Fellow of the prestigious Royal Society40. Not only did he exhibit the artefacts on the dockside, he lectured on the Obelisk at the monthly Meeting of the Bombay Royal Asiatic Society.41
+The person responsible for the artefacts’ display was one Dr. Buist: a preacher, the Editor of the Bombay Times[^38], “the city’s leading scientist”[^39], a frequent contributor of scholarly articles to the Journal of the Bombay Branch of the Royal Asiatic Society, and a Fellow of the prestigious Royal Society[^40]. Not only did he exhibit the artefacts on the dockside, he lectured on the Obelisk at the monthly Meeting of the Bombay Royal Asiatic Society.[^41]
 
-Then, after not only exhibiting the obelisk at the dockside and lecturing on it, Dr Buist had the audacity to add yet further to the “unjustifiable liberties”42 he’d taken with Layard’s discoveries. Instead of shamefacedly and very carefully repacking the obelisk and other artefacts and sending them on their way, he arranged for a number of plaster casts of the obelisk to be taken. But, of course, this was fine because before doing so he gave “a personal pledge that no harm could result”43 from taking an unpublished artefact delicately inscribed in a writing system that had yet to be properly deciphered and covering it with Plaster of Paris, waiting for it to dry, and then ripping it off. 
+Then, after not only exhibiting the obelisk at the dockside and lecturing on it, Dr Buist had the audacity to add yet further to the “unjustifiable liberties”[^42] he’d taken with Layard’s discoveries. Instead of shamefacedly and very carefully repacking the obelisk and other artefacts and sending them on their way, he arranged for a number of plaster casts of the obelisk to be taken. But, of course, this was fine because before doing so he gave “a personal pledge that no harm could result”[^43] from taking an unpublished artefact delicately inscribed in a writing system that had yet to be properly deciphered and covering it with Plaster of Paris, waiting for it to dry, and then ripping it off. 
 
-What a cretinous collection of colonialist clowns.
+_What a cretinous collection of colonialist clowns._
 
 Thankfully, nothing did go wrong with the plaster casts. Sadly, some of the artefacts displayed at the dockside didn’t fare so well at the hands of those who came to look at the artefacts – many of them were stolen. A few of the items have been tracked down and retrieved or handed back in; so let’s go on a museum junky tangent...
 
-More than fifty years after their discovery, in 1897, one Miss H. G. Wainwright “donated” to the British Museum a number of artefacts that she’d inherited from her father, William Wainwright, who’d been in Bombay at the time Layard’s artefacts were being exhibited in the dockyard.44 Most of the artefacts she donated are boxed up in the museum’s archives, but a couple of them are on display.
+More than fifty years after their discovery, in 1897, one Miss H. G. Wainwright “donated” to the British Museum a number of artefacts that she’d inherited from her father, William Wainwright, who’d been in Bombay at the time Layard’s artefacts were being exhibited in the dockyard.[^44] Most of the artefacts she donated are boxed up in the museum’s archives, but a couple of them are on display.
 
-The first of these artefacts that you can go see for yourself is a cracked relief of some guy’s head45, on display in room 56, very close to the famous Flood Tablet. I’ve not been able to find anything that explains why the relief is cracked, so I like to imagine it’s because William Wainwright couldn’t otherwise fit it under his jacket as he wandered away from the dockside where he robbed the artefacts, so he quietly karate chopped it behind the Black Obelisk before stuffing it under his jumper and sauntering off.
+The first of these artefacts that you can go see for yourself is a cracked relief of some guy’s head[^45], on display in room 56, very close to the famous Flood Tablet. I’ve not been able to find anything that explains why the relief is cracked, so I like to imagine it’s because William Wainwright couldn’t otherwise fit it under his jacket as he wandered away from the dockside where he robbed the artefacts, so he quietly karate chopped it behind the Black Obelisk before stuffing it under his jumper and sauntering off.
 
-The second of the artefacts Wainwright pilfered is displayed in the Museum’s “Assyria: Nineveh” area near the end of room 9, directly below the well known Phoenician ship relief.46 It’s of an Assyrian male fishing in a pond. It’s quite cool to see it listed on Layard’s manifest in his book – it’s item 74.47 It’s a beautiful little fragment – for years I’ve enjoyed it every time I’ve walked through this gallery though I never knew the backstory to it.
+The second of the artefacts Wainwright pilfered is displayed in the Museum’s “Assyria: Nineveh” area near the end of room 9, directly below the well known Phoenician ship relief.[^46] It’s of an Assyrian male fishing in a pond. It’s quite cool to see it listed on Layard’s manifest in his book – it’s item 74.[^47] It’s a beautiful little fragment – for years I’ve enjoyed it every time I’ve walked through this gallery though I never knew the backstory to it.
 
 # Cyclones to Ceylon
 
-Anyway, all this time that the Obelisk had been on the dockside at Bombay harbour, workmen in the same harbour had been finishing off the construction of a new brig for the Royal Navy, the HMS Jumna;48 it was this ship that was to transport Layard’s artefacts to London.49
+Anyway, all this time that the Obelisk had been on the dockside at Bombay harbour, workmen in the same harbour had been finishing off the construction of a new brig for the Royal Navy, the HMS Jumna;[^48] it was this ship that was to transport Layard’s artefacts to London.[^49]
 
 From Bombay, ships would sail to London by first sailing around the bottom of the Indian subcontinent and up the other side, picking up goods from port cities like Calcutta (now Kolkata). From there it would sail south down India’s eastern shore for Ceylon, modern Sri Lanka. Off the Sri Lankan coast the ships would pick up the trade winds that would blow them down past Madagascar, and around Africa’s southern tip at the Cape of Good Hope. From there the ship would sail north through the Atlantic around Western Africa, past Spain, eventually reaching Chatham Docks, just east of London in the Thames Estuary.
 
 But, the HMS Jumna’s maiden voyage would not be so idyllic. In fact, the ship’s story begins and ends in disaster. We’ll get into its disastrous maiden voyage carrying the obelisk in a minute, but it’s worth knowing about the ships’ poignant end.
 
-The Jumna had a 33 year long career. Its final voyage began in Hobart on the island of Tasmania – south of the Australian mainland. It had arrived there from Mauritius laden with sugar, but after unloading it wasn’t able to pick up any new cargo, so its sailors filled it with 60 tons of ballast –far too little for a ship of its size– and set off westward for the port of Fremantle on Australia’s western seaboard. It never made it. None of the sailors survived whatever the ship’s fate was, and though some wreckage was found on a beach near Fremantle it couldn’t be shown for sure that it came from the HMS Jumna. People who knew the ship theorised that the ship must have capsized in a squall and sank, but we’ll never know for sure.50 Whatever happened, it wasn’t a happy ending.
+The Jumna had a 33 year long career. Its final voyage began in Hobart on the island of Tasmania – south of the Australian mainland. It had arrived there from Mauritius laden with sugar, but after unloading it wasn’t able to pick up any new cargo, so its sailors filled it with 60 tons of ballast –far too little for a ship of its size– and set off westward for the port of Fremantle on Australia’s western seaboard. It never made it. None of the sailors survived whatever the ship’s fate was, and though some wreckage was found on a beach near Fremantle it couldn’t be shown for sure that it came from the HMS Jumna. People who knew the ship theorised that the ship must have capsized in a squall and sank, but we’ll never know for sure.[^50] Whatever happened, it wasn’t a happy ending.
 
-So, back in Bombay harbour at the beginning of the Jumna’s career… The ship was loaded up with 55 of Layard’s cases51 of discoveries – things had taken so long that by now there was a bit of a backlog of them on the Bombay dockside. The ship, under the direction of one Captain Lieutenant Rodney, set off for London on the 12th of April 1848.52 As planned, it headed south-east.
+So, back in Bombay harbour at the beginning of the Jumna’s career… The ship was loaded up with 55 of Layard’s cases[^51] of discoveries – things had taken so long that by now there was a bit of a backlog of them on the Bombay dockside. The ship, under the direction of one Captain Lieutenant Rodney, set off for London on the 12th of April 1848.[^52] As planned, it headed south-east.
 
-The first few days were uneventful. As it happened, 3 days into the voyage, on April 15th, Layard happened to be lecturing in London at the Royal Asiatic Society – he had no way of knowing that his artefacts had begun the last leg of their journey to the British Museum. He discussed the particulars of the dating of the various artefacts, with people in the audience disagreeing on just how old the artefacts were.53 Little did he know what was in store for the very artefacts he was busy chatting about.
+The first few days were uneventful. As it happened, 3 days into the voyage, on April 15th, Layard happened to be lecturing in London at the Royal Asiatic Society – he had no way of knowing that his artefacts had begun the last leg of their journey to the British Museum. He discussed the particulars of the dating of the various artefacts, with people in the audience disagreeing on just how old the artefacts were.[^53] Little did he know what was in store for the very artefacts he was busy chatting about.
 
-The Jumna had sailed around the bottom of the Indian subcontinent and up the other side, arriving in the port city of Calcutta. The next day, the 22nd of April, after loading up more goods bound for London it set off again heading south for Ceylon.54 That evening, the Jumna encountered bad weather; such bad weather in fact that it got written up in an article in the 1850 Journal of the Asiatic Society.55 And, when we say bad weather, the Jumna managed to sail straight into the point where three56 cyclones collided, and it was stuck in that tempest for the best part of two days57 almost sinking to the bottom of the sea. Here’s how it played out.
+The Jumna had sailed around the bottom of the Indian subcontinent and up the other side, arriving in the port city of Calcutta. The next day, the 22nd of April, after loading up more goods bound for London it set off again heading south for Ceylon.[^54] That evening, the Jumna encountered bad weather; such bad weather in fact that it got written up in an article in the 1850 Journal of the Asiatic Society.[^55] And, when we say bad weather, the Jumna managed to sail straight into the point where three[^56] cyclones collided, and it was stuck in that tempest for the best part of two days[^57] almost sinking to the bottom of the sea. Here’s how it played out.
 
-At 3am on April 23rd, the gale force 5 cyclone with its thunder and lightning increased to a gale force 7 or 8. As the hours wore on it got worse and worse such that at 8:45am the next morning the storm was a gale force 10. It stayed at that level until 3pm when it dropped to a mild force 9 gale, until the ship sailed into the eye of the storm where it was all calm at 4pm. At 4:30pm they were back in a force 6 cyclone, and at 7pm they were back in force 10. From 8pm to midnight the storm was between a force 10 to 12, but was “said to be higher than the figures can express” – the storm was literally off the scale. This lasted for quite a few hours, and at 10:45am the next morning, according to the ship’s logs, the ship “broached to and went over and the mainmast was cut away to right her”.58 In non-sailor speak this means that as a result of being pushed from behind either by a massive wave or a particularly hellish gust of wind, the boat did a forward flip, landing upside down. And because this was in the days before boats were self-righting, the crew had to cut away the mast to get the ship the right way up again. Later in the day the storm finally calmed.59
+At 3am on April 23rd, the gale force 5 cyclone with its thunder and lightning increased to a gale force 7 or 8. As the hours wore on it got worse and worse such that at 8:45am the next morning the storm was a gale force 10. It stayed at that level until 3pm when it dropped to a mild force 9 gale, until the ship sailed into the eye of the storm where it was all calm at 4pm. At 4:30pm they were back in a force 6 cyclone, and at 7pm they were back in force 10. From 8pm to midnight the storm was between a force 10 to 12, but was “said to be higher than the figures can express” – the storm was literally off the scale. This lasted for quite a few hours, and at 10:45am the next morning, according to the ship’s logs, the ship “broached to and went over and the mainmast was cut away to right her”.[^58]
+
+In non-sailor speak "broached to" means that as a result of being pushed from behind either by a massive wave or a particularly hellish gust of wind, the boat did a forward flip, landing upside down. And because this was in the days before boats were self-righting, the crew had to cut away the mast to get the ship the right way up again. Later in the day the storm finally calmed.[^59]
 
 This, it’s probably fair to say, is not really what you want happening to one of the most important archaeological finds ever.
 
-What remained of the Jumna then limped through the water “under jurymasts” –that is, makeshift masts made out of bits of the ship– and after a few days it slunk into the port of Trincomalee in Ceylon, modern Sri-Lanka.60
+What remained of the Jumna then limped through the water “under jurymasts” –that is, makeshift masts made out of bits of the ship– and after a few days it slunk into the port of Trincomalee in Ceylon, modern Sri-Lanka.[^60]
 
-The ship needed refitting, and this caused quite the delay.61 Thankfully, none of Layard’s artefacts had been lost – all was well.
+The ship needed refitting, and this caused quite the delay.[^61] Thankfully, none of Layard’s artefacts had been lost – all was well.
 
 But this is not the news that reached Layard’s ears in London. On August 12th 1848, the Athenaum newspaper, Layard’s source of news about his precious artefacts, printed a summary of an article in the Bombay Times:
 
-“We are sorry to see that the brig Jumna, which was bringing, as our readers know, a further importation of the Nimroud Antiquities to England, has suffered wreck. The pieces of sculptural marble or alabaster on board exceeded sixty.”62
+“We are sorry to see that the brig Jumna, which was bringing, as our readers know, a further importation of the Nimroud Antiquities to England, has suffered wreck. The pieces of sculptural marble or alabaster on board exceeded sixty.”[^62]
 
 It’s hard to imagine Layard reading that report and him not having a stroke. First the artefacts suffered intellectual property theft in Baghdad. Then they were stuck in Basrah for the best part of a year. Then they were robbed in Bombay. And now they’re at the bottom of the ocean! Poor Layard – unknown to him he was an early victim of Fake News.
 
 # The final leg to London
 
-It now being midsummer after spending a couple of months under repairs in Trincomalee, the Jumna set off for London on July 1st 1848.63 It picked up the trade winds, sailed past Madagascar and around the Cape of Good Hope, arriving on August 20th on the tiny southern-Atlantic island of St Helena.64 Five days later, on August 25th, the Jumna sailed past Ascension Island65, an even smaller rock sticking out of the ocean than St Helena is. Six more weeks went by, and on October 3rd the Jumna lowered its anchor at Spithead just outside Portsmouth Harbour.66 Finally, 10 days later, on the 13th of October 184867 the HMS Jumna reached its final destination and sailed into Chatham Docks, east of London.68
+It now being midsummer after spending a couple of months under repairs in Trincomalee, the Jumna set off for London on July 1st 1848.[^63] It picked up the trade winds, sailed past Madagascar and around the Cape of Good Hope, arriving on August 20th on the tiny southern-Atlantic island of St Helena.[^64] Five days later, on August 25th, the Jumna sailed past Ascension Island[^65], an even smaller rock sticking out of the ocean than St Helena is. Six more weeks went by, and on October 3rd the Jumna lowered its anchor at Spithead just outside Portsmouth Harbour.[^66] Finally, 10 days later, on the 13th of October 1848[^67] the HMS Jumna reached its final destination and sailed into Chatham Docks, east of London.[^68]
 
 Reporting on the event, the Athenaum wrote,
 
-“The long-expected marbles from Nimroud, embarked on board the Jumna and which were reported to have been lost at sea, have, we are happy to say, at length arrived...”69
+“The long-expected marbles from Nimroud, embarked on board the Jumna and which were reported to have been lost at sea, have, we are happy to say, at length arrived...”[^69]
 
-Normally, goods entering England would be inspected by customs officials on arrival at the docks. But for Layard’s 50 cases, special provision was made. They were were transported “under seals” from the docks to the British Museum, accompanied by customs staff. On arrival at the museum the crates were unsealed in the presence of the customs staff, the museum trustees, and of course, Austen Henry Layard.70
+Normally, goods entering England would be inspected by customs officials on arrival at the docks. But for Layard’s 50 cases, special provision was made. They were were transported “under seals” from the docks to the British Museum, accompanied by customs staff. On arrival at the museum the crates were unsealed in the presence of the customs staff, the museum trustees, and of course, Austen Henry Layard.[^70]
 
 Layard’s initial relief at receiving his artefacts back from the dead very quickly turned to outrage. To quote Gadd,
 
-“…the state of the contents of the thirty boxes of small objects was such as to evoke the strongest expressions of indignation. Privately he used much more emphatic language...”71
+“…the state of the contents of the thirty boxes of small objects was such as to evoke the strongest expressions of indignation. Privately he used much more emphatic language...”[^71]
 
 The artefacts had been terribly packed; any order Layard had put them in was gone. Some of the artefacts had been smashed. Some of the smaller artefacts had been stolen.
 
-Furious with what they’d found, the Trustees of the Museum wrote off to the Governor at Bombay asking what on earth had happened. In reply they received a report mentioning some of the events we saw took place in Bombay.72 I imagine that things weren’t helped when the ship “went over” in the cyclones either, so the disorganised mess wasn’t completely the fault of Dr Buist’s men in Bombay, but it was certainly almost entirely their fault.
+Furious with what they’d found, the Trustees of the Museum wrote off to the Governor at Bombay asking what on earth had happened. In reply they received a report mentioning some of the events we saw took place in Bombay.[^72] I imagine that things weren’t helped when the ship “went over” in the cyclones either, so the disorganised mess wasn’t completely the fault of Dr Buist’s men in Bombay, but it was certainly almost entirely their fault.
 
-And so, the customs officials went back to their docks. At last Layard’s artefacts were brought into the museum. They were put on display in the Nimroud Room, with pride of place going to the Black Obelisk.73 Almost two years after its initial discovery, and after many adventures, the artefact could rest.
+And so, the customs officials went back to their docks. At last Layard’s artefacts were brought into the museum. They were put on display in the Nimroud Room, with pride of place going to the Black Obelisk.[^73] Almost two years after its initial discovery, and after many adventures, the artefact could rest.
 
 [[USE PHOTO OF OBEISK STANDING IN NIMRUD SALOON FROM Habershon's The Bible and the British Museum, plate IV, pdf page 50]]
 
-And, it’s bizarre to think about it now, but the obelisk was on display for more than three years before scholars worked out that the “bearded figure” “in the attitude of awe”74 was none other than the Israelite King Jehu. More about that in the next video.
+And, it’s bizarre to think about it now, but the obelisk was on display for more than three years before scholars worked out that the “bearded figure” “in the attitude of awe”[^74] was none other than the Israelite King Jehu. More about that in the next video.
+
+**Footnotes**
+
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
+[^11]:
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
+[^20]:
+[^21]:
+[^22]:
+[^23]:
+[^24]:
+[^25]:
+[^26]:
+[^27]:
+[^28]:
+[^29]:
+[^30]:
+[^31]:
+[^32]:
+[^33]:
+[^34]:
+[^35]:
+[^36]:
+[^37]:
+[^38]:
+[^39]:
+[^40]:
+[^41]:
+[^42]:
+[^43]:
+[^44]:
+[^45]:
+[^46]:
+[^47]:
+[^48]:
+[^49]:
+[^50]:
+[^51]:
+[^52]:
+[^53]:
+[^54]:
+[^55]:
+[^56]:
+[^57]:
+[^58]:
+[^59]:
+[^60]:
+[^61]:
+[^62]:
+[^63]:
+[^64]:
+[^65]:
+[^66]:
+[^67]:
+[^68]:
+[^69]:
+[^70]:
+[^71]:
+[^72]:
+[^73]:
+[^74]:
