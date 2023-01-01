@@ -1,10 +1,10 @@
 ---
 layout: single
 title: "The Merneptah Stele: Beyond Apologetics"
-date: 2022-01-03 00:01 +0100
+date: 2022-07-11 00:01 +0100
 category: Beyond Apologetics
-tags: Beyond-Apologetics Apologetics Dealing-with-Discrepancies Inscriptions Merneptah-Stele Israel-Museum
-excerpt: "The Tel Dan Stele's discovery, the debate it caused, and how it shows that scripture sometimes doesn't work the way we think it does."
+tags: Beyond-Apologetics Apologetics Dealing-with-Discrepancies Inscriptions Merneptah-Stele Israel-Museum Annihilation
+excerpt: "The Merneptah Stele's discovery, transcription, and what it shows us about annihilation in the biblical text."
 toc: true
 header:
   image: /assets/images/beyond-apologetics-merneptah-stele/merneptah_stele_on_map.jpg
@@ -32,9 +32,15 @@ Unlike the Tel Dan Stele which was discovered at what might have been the height
 
 One of these guys was William Flinders Petrie, the Edwards Professor of Egyptian Archaeology and Philology at University College London.
 
+{% include figure image_path="/assets/images/beyond-apologetics-merneptah-stele/01_petrie.jpg" caption="William Flinders Petrie" %}
+
 He’d made it his mission to excavate six temples on the west bank of the Nile at Thebes, opposite Luxor, on the other side of the hill from the famous Valley of the Kings.
 
+{% include figure image_path="/assets/images/beyond-apologetics-merneptah-stele/02_six_temples_cover.jpg" caption="Six Temples at Thebes" %}
+
 According to his journal, Petrie arrived in Luxor on the 10th of December 1895. After a few days staying with a friend, he set up base camp in one of the mud brick store tunnels of the 3200 year old Ramesseum; the mortuary temple of Pharaoh Rameses II. That may sound like a romantic setup, but in his journal he explains that it was so cold in the evenings that he would write his journal “between blankets” – the night December desert is cold.[^1]
+
+{% include figure image_path="/assets/images/beyond-apologetics-merneptah-stele/03_six_temples_view_annotated.jpg" caption="The six temples Petrie excavated, with the Ramessaeum highlighted" %}
 
 Anyway, on December 16th, he got digging.[^2]
 
@@ -44,9 +50,21 @@ Only a few days after Petrie arrived, and maybe a little prematurely, his assist
 
 That was soon to change – Petrie was about to make what he called his “great discovery”.[^4]
 
-As we’ve said, Petrie was out there digging a series of temples. One of the mysteries he solved was that of the missing temple of Pharaoh Amenhotep III - he’s the Pharaoh you’ll have seen if you’ve been to the British Museum and gone to see the Rosetta Stone, [[PIC: ENTRANCE TO ROSETTA STONE AREA IN BRITISH MUSEUM]] - you’ll probably have gone through this door to get to it. That statue on the right is of that Amenhotep III, found at the site Petrie was excavating. If you’ve been on a tour of Luxor you may have been to Amenhotep III’s mortuary temple - it’s common for tour buses to stop off at the Colossi of Memnon - they stand in front of what remains of that temple.
+As we’ve said, Petrie was out there digging a series of temples. One of the mysteries he solved was that of the missing temple of Pharaoh Amenhotep III - he’s the Pharaoh you’ll have seen if you’ve been to the British Museum and gone to see the Rosetta Stone - you’ll probably have gone through the door in the image below to get to it. The statue on the right is of that Amenhotep III, found at the site Petrie was excavating.
 
-Anyway, [[PIC: APPLE MAPS OF AREA]] as we were saying if you look at a photo you’ll see that much of his mortuary temple is… gone. Now, it’s gone for a number of reasons, like, earthquakes, and flooding, but [[PIC: MERNEPTAH]] the main culprit is our Pharaoh Merneptah.
+{% include figure image_path="/assets/images/beyond-apologetics-merneptah-stele/04_british_museum_amenhotep_iii.jpg" caption="Amenhotep III's head in the British Museum" %}
+
+If you’ve been on a tour of Luxor you may have been to Amenhotep III’s mortuary temple - it’s common for tour buses to stop off at the Colossi of Memnon - they stand in front of what remains of that temple.
+
+{% include figure image_path="/assets/images/beyond-apologetics-merneptah-stele/05_temple_of_amenhotep_iii.jpg" caption="The temple of Amenhotep III. Note the two triangle highlights on the right indicating the location of the colossi of Memnon." %}
+
+Anyway, if you look at a photo you’ll see that much of his mortuary temple is… gone:
+
+{% include figure image_path="/assets/images/beyond-apologetics-merneptah-stele/05a_temple_of_amenhotep_iii_empty.jpg" caption="The temple of Amenhotep III... empty." %}
+
+Now, it’s gone for a number of reasons, like, earthquakes, and flooding, but the main culprit is our Pharaoh Merneptah.
+
+{% include figure image_path="/assets/images/beyond-apologetics-merneptah-stele/06_merneptah.jpg" caption="Pharaoh Merneptah" %}
 
 What Petrie discovered is that in building his own mortuary temple, Merneptah raided Amenhotep III’s mortuary temple for parts.
 
@@ -70,7 +88,11 @@ But, it wasn’t all bad. At least not for Petrie.
 
 ### Discovery of the Stele
 
-When you enter Merneptah’s Mortuary Temple, you’re standing in what’s called the First Court. When Petrie was excavating it he found at the back left corner of the court (that’s the south-west corner) a large, black, granite stele lying flat on the dirt floor. It was over 10 foot long, over 5 foot wide, and more than a foot thick. It clearly used to stand up straight, but had toppled over at some point during the 3,100 years between Merneptah building the Temple, and Petrie’s arrival. Petrie didn’t know it, but this stele was going to be the highlight of his expedition, and the highlight of his career.
+When you enter Merneptah’s Mortuary Temple, you’re standing in what’s called the First Court. When Petrie was excavating it he found at the back left corner of the court (that’s the south-west corner) a large, black, granite stele lying flat on the dirt floor.
+
+{% include figure image_path="/assets/images/beyond-apologetics-merneptah-stele/07_merneptah_mortuary_temple_annotated.jpg" caption="The stele's find-site in the first court of Merneptah's mortuary temple" %}
+
+The stele was over 10 foot long, over 5 foot wide, and more than a foot thick. It clearly used to stand up straight, but had toppled over at some point during the 3,100 years between Merneptah building the Temple, and Petrie’s arrival. Petrie didn’t know it, but this stele was going to be the highlight of his expedition, and the highlight of his career.
 
 On the upward facing side they found an inscription written by Amenhotep III describing his various building projects including his mortuary temple, the Luxor temple, and the third Pylon at Karnak.[^9]
 
@@ -82,27 +104,31 @@ Petrie had the ground below the stele shovelled out, creating a small space to c
 
 ## Transcription and translation
 
-Working alongside Petrie was Dr Spiegelberg, who later became Professor of Egyptology at the University of Munich. From his notebooks it seems Petrie wasn’t a fan of the Germans, but he described Speigelberg in relatively glowing terms:
+Working alongside Petrie was Dr Wilhelm Spiegelberg, who later became Professor of Egyptology at the University of Munich.
+
+{% include figure image_path="/assets/images/beyond-apologetics-merneptah-stele/08_spiegelberg.jpg" caption="Dr Wilhelm Spiegelberg" %}
+
+From his notebooks it seems Petrie wasn’t a fan of the Germans, but he described Spiegelberg in relatively glowing terms:
 
 > He is the pleasantest German I know… for absence of their usual bumptiousness.[^11]
 
-Speigelberg was out in Luxor taking copies of inscriptions and translating them, so he helped Petrie out doing the same thing during the excavations. About the day that he had Speigelberg crawl under the stele to see what he could find, Petrie wrote in his memoirs that the german,
+Spiegelberg was out in Luxor taking copies of inscriptions and translating them, so he helped Petrie out doing the same thing during the excavations. About the day that he had Spiegelberg crawl under the stele to see what he could find, Petrie wrote in his memoirs that the german,
 
 > …lay there copying for an afternoon, and came out saying, “There are names of various Syrian towns, and one which I do not know, Isirar.” “Why, that is Israel,” said I. “So it is, and won’t the reverends be pleased,” was his reply.[^12]
 
 The significance of their discovery hit them immediately - it was the earliest mention of “Israel” outside the Bible.
 
-[[PIC: SPEIGELBERG’S TRANSCRIPTION]]
-
 Spiegelberg wasted no time and published his transcription of Mernerpteh’s inscription the same year. Here are the highlighted hieroglyphs from line 27 of the inscription:[^13]
 
-[[PIC]]
+{% include figure image_path="/assets/images/beyond-apologetics-merneptah-stele/09_spiegelberg_transcription.jpg" caption="Spiegelberg's transcription" %}
 
 …which read, “Israel is wasted, its seed is not”. And there you go: Israel. On a stele dated around 1208 BCE.
 
 For context, the mention of Israel comes almost at the end of the stele in a list of places and towns that Merneptah had fought in the southern Levant. Here’s how the section reads:
 
 > The (foreign) chieftains lie prostrate, saying “Peace.” Not one lifts his head among the Nine Bows. Libya is captured, while Hatti is pacified. Canaan is plundered, Ashkelon is carried off, and Gezer is captured. Yenoam is made into non-existence; Israel is wasted, its seed is not; and Hurru is become a widow because of Egypt. All lands united themselves in peace. Those who went about are subdued by the king of Upper and Lower Egypt … Merneptah.[^14]
+
+{% include figure image_path="/assets/images/beyond-apologetics-merneptah-stele/10_merneptah_stele_israel.jpg" caption="The Merneptah Stele with 'Israel' highlighted." %}
 
 The evening of the discovery, Petrie declared,
 
@@ -160,6 +186,8 @@ In a document known today as Papyrus Harris 1, stored in the British Museum but 
 
 > The Sherden and the Weshesh of the Sea were made nonexistent, captured all together and brought in captivity to Egypt like the sands of the shore. I settled them in strongholds, bound in my name.[^23]
 
+{% include figure image_path="/assets/images/beyond-apologetics-merneptah-stele/11_papyrus_harris_i_01.jpg" caption="Papyrus Harris 1 with the above quote highlighted." %}
+
 As Professor of History and Humanities at York University in Toronto, Carl Ehrlich explains what's  going on here:
 
 > According to Papyrus Harris I, Ramesses, after his victory, settled the Sea Peoples, whom he had “annihilated,” in fortresses[^24]
@@ -169,6 +197,8 @@ So, these Sea People "tribes", the Weshesh and Sherden, were annihilated. They w
 Ramesses III continues,
 
 > I destroyed the people of Seir among the Bedouin tribes. I razed their tents: their people, their property, and their cattle as well, without number, pinioned and carried away in captivity, as the tribute of Egypt. I gave them to the Ennead of the gods, as slaves for their houses.[^25]
+
+{% include figure image_path="/assets/images/beyond-apologetics-merneptah-stele/12_papyrus_harris_i_02.jpg" caption="Papyrus Harris 1 with the above quote highlighted." %}
 
 These people of Seir seemed to have suffered a similar fate - after being completely annihilated and wiped off the face of the earth, they were enslaved and moved somewhere.
 
