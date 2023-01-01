@@ -26,13 +26,17 @@ Let’s get started.
 
 In November 1845, a man whose name is well known to anyone with even a passing interest in Assyriology, arrived in Mosul – a town in modern day northern Iraq, in the area known at that time as “Turkish Arabia”.
 
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/01_turkish_arabia.jpg" caption="Red pin is Mosul, Blue pin is Nimrud. Lapie, M. (Pierre), 1779-1850. Carte de la Turquie D'Asie de la Perse de l'Afghanistan et de l'Arabie / dressée par M. Lapie, Colonel et M Lapie fils Capitaine d'Etat Major ; gravé par Pierre Tardieu. Paris: Imprimé chez Kaeppelin, 1842 Scale [ca. 1:10,400,000]." %}
+
 Austen Henry Layard, according to one of his friends, was the man for the task at hand. He was described by one guy as being “excellently fitted for the work of an explorer and excavator, strong, robust, determined, … active, energetic, and inured to hardship by his previous travels in wild regions.”[^1]
+
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/02_austen_henry_layard.jpg" caption="Austen Henry Layard" %}
 
 And that’s what Layard had come for – to excavate a site he’d come across on his previous trips. Funded by Sir Stratford Canning, the British ambassador to Constantinople[^2], Layard’s objective was to excavate Nimrud, a site down the river from Mosul that at the time he thought was Nineveh. It would be quite a while before he figured out that Nimrud wasn’t Nineveh, but that’s a different story.
 
 On November 8th 1845, after presenting his credentials to the local government[^3] and telling the locals that he was sailing downstream to hunt wild boars, Layard hopped on a raft he’d hurriedly built for the occasion, and floated down the Tigris. Around 5 hours later Layard arrived at Nimrud,  disembarked, and had a wander around.[^4]
 
-[MAP OF TIGRIS, CAMP, and NIMRUD]
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/03_map_layards_hut.jpg" caption="Layard's map of Nimrud - note the Tigris river, Layard's campsite, and ancient Nimrud." %}
 
 After a few days poking around, he set up camp – you can see it on this map, very close to the mound of Nimrud where he was excavating.
 
