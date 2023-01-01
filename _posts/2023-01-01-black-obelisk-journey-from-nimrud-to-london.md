@@ -172,77 +172,77 @@ And, it’s bizarre to think about it now, but the obelisk was on display for mo
 
 **Footnotes**
 
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
-[^11]:
-[^12]:
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-[^17]:
-[^18]:
-[^19]:
-[^20]:
-[^21]:
-[^22]:
-[^23]:
-[^24]:
-[^25]:
-[^26]:
-[^27]:
-[^28]:
-[^29]:
-[^30]:
-[^31]:
-[^32]:
-[^33]:
-[^34]:
-[^35]:
-[^36]:
-[^37]:
-[^38]:
-[^39]:
-[^40]:
-[^41]:
-[^42]:
-[^43]:
-[^44]:
-[^45]:
-[^46]:
-[^47]:
-[^48]:
-[^49]:
-[^50]:
-[^51]:
-[^52]:
-[^53]:
-[^54]:
-[^55]:
-[^56]:
-[^57]:
-[^58]:
-[^59]:
-[^60]:
-[^61]:
-[^62]:
-[^63]:
-[^64]:
-[^65]:
-[^66]:
-[^67]:
-[^68]:
-[^69]:
-[^70]:
-[^71]:
-[^72]:
-[^73]:
-[^74]:
+[^1]: George Rawlinson, A Memoir of Major-General Sir Henry Creswicke Rawlinson (London, 1898), 151.
+[^2]: Austen Henry Layard, Nineveh and its Remains (London: 1849), 16-17.
+[^3]: Austen Henry Layard, Nineveh and its Remains (London: 1849), 19 & 21.
+[^4]: "On the 8th of November [1845], having secretly procured a few tools, and engaged a mason at the moment of my departure, and carrying with me a variety of guns, spears, and other formidable weapons, I declared that I was going to hunt wild boars in a neighbouring village, and floated down the Tigris on a small raft constructed for my journey. I was accompanied by Mr. Ross, a British merchant of Mosul, my Cawass, and a servant. At this time of the year more than five hours are required to descend the Tigris, from Mosul to Nimroud." Austen Henry Layard, Nineveh and its Remains (London: 1849), 21-22.
+[^5]: “I continued to employ a few men to open trenches by way of experiment, and was not long in discovering other sculptures…” Austen Henry Layard, Nineveh and its Remains (London: 1849), 46.
+[^6]: “In the centre of the mound we uncovered part of a pair of gigantic winged bulls, the head and half the wings of which had been destroyed. Their length was fourteen feet, and their height must have been originally the same.’ Austen Henry Layard, Nineveh and its Remains (London: 1849), 46.
+[^7]: “During the next campaign in 1975, east of this relief two Lamassu-bulls of Shalmaneser III were found; the form an entrance to a building lying more to the west. These sculptures were known from Layard’s time and were called “The Centre Bulls”,  but their exact position was unknown till our excavations.” A. Mierzejewski & R. Sobolewski, “Polish Excavations at Nimrud/Kalh 1974-1976: Some preliminary remarks on the new discovered neo-assyrian constructions and reliefs,” Sumer 36 (1980), 152-153.
+[^8]: “The excavations were recommenced, on a large scale, by the 1st of November.” Austen Henry Layard, Nineveh and its Remains (London: 1849), 332.
+[^9]: “My working parties were distributed over the mound – … [including] in the centre of the mound near the gigantic bulls (* at i and j, plan 1)” Austen Henry Layard, Nineveh and its Remains (London: 1849), 332.
+[^10]: Austen Henry Layard, Nineveh and its Remains (London: 1849), 344-347.
+[^11]: Austen Henry Layard, Nineveh and its Remains (London: 1849), 344-347.
+[^12]: “Trenches were also dug in two other areas on the Akropolis. First of all some digging was done in what is known as the centre palace of Tiglath-pileser III on the square where it was believed Layard had found the black obelisk of Shalmaneser III. Here, however, work was not prolonged because it was found that what was left of the building was in a ruinous and badly damaged condition. Indeed to recover more of the old plan and the alignment of the street would have been a major operation. Our efforts were needed elsewhere.” Max Edgar Lucien Mallowan, "The Excavations at Nimrud (Kalhu), 1952," Iraq 15.1 (1953): 5.
+[^13]: Correspondence in Gordon Waterfield, Layard of Nineveh (London, 1963), 168.
+[^14]: Correspondence in Gordon Waterfield, Layard of Nineveh (London, 1963), 168.
+[^15]: Austen Henry Layard, Nineveh and its Remains (London: 1849), 348. For the sketches themselves see Austen Henry Layard, The Monuments of Nineveh, from drawings made on the spot (London, 1849), Pl. 53-56.
+[^16]: Austen Henry Layard, Nineveh and its Remains (London: 1849), 348.
+[^17]: Austen Henry Layard, Nineveh and its Remains (London: 1849), 348.
+[^18]: Austen Henry Layard, Nineveh and its Remains (London: 1849), 372.
+[^19]: Cyril John Gadd, The Stones of Assyria (London, 1936), 41-42.
+[^20]: George Rawlinson, Memoir of Sir Henry Rawlinson (1898), 153-154.
+[^21]: Cyril John Gadd, The Stones of Assyria (London, 1936), 41.
+[^22]: Cyril John Gadd, The Stones of Assyria (London, 1936), 42.
+[^23]: Cyril John Gadd, The Stones of Assyria (London, 1936), 42.
+[^24]: Cyril John Gadd, The Stones of Assyria (London, 1936), 43.
+[^25]: Gordon Waterfield, Layard of Nineveh (London, 1963), 179-180.
+[^26]: “…when Rawlinson was at Basrah in December 1847 he had the satisfaction of seeing, one day, the Company’s sloop-of-war Clive arrive at the port, and he found that the commander, in accordance with his instructions, was prepared to take on board such antiquities as he had the capacity to carry, but he was to take them only as far as Bushire, where they would be trans-shipped to the Elphinstone and by her carried to Bombay. Unfortunately these sloops were only small craft and it was found that the Clive’s utmost capacity was twenty cases, the Black Obelisk… and all the portable boxes of small objects; these were accordingly stowed aboard in the driest and most sheltered positions” Cyril John Gadd, The Stones of Assyria (London, 1936), 42.
+[^27]: Cyril John Gadd, The Stones of Assyria (London, 1936), 44.
+[^28]: ‘Persian Gulf Captain Lowe’s proceedings during his late tour of the Persian and Arabian Coasts. Vol: 2’, British Library: India Office Records and Private Papers, IOR/F/4/2260/114569, in Qatar Digital Library <https://www.qdl.qa/archive/81055/vdc_100098593048.0x000001 (pdf page 8)> [accessed 30 September 2022]
+[^29]: “In this year the ' Elphinstone' brought from the Persian Gulf, some of the sculptures collected by Mr. Layard and Major Rawlinson for the British Museum...” Charles Rathbone Low, History of the Indian Navy (1613-1863) Volume 2 (London, 1877), 201.
+[^30]: “Fine Arts,” The Athenaeum, February 5, 1848, pp. 146-147.
+[^31]: “The first quarter of 1848 passed away thus in rather waning hopes at Basrah, while at home there came reports of an arrival of antiquities from Nimrud at Bombay, namely, those taken on board the Clive. The accounts of them furnished by the local press were so garbled that Layard at first did not think it could be his discoveries at all, but later he received news from Rawlinson that some of his cases had indeed been sent.” Cyril John Gadd, The Stones of Assyria (London, 1936), 44.
+[^32]: "1552. 'Does not the Government of Bombay also correspond with the Resident at Bagdad?' 'Yes.' 1553. 'And which Resident at Bagdad reports to the Government of Bombay the despatches which he writes to the English Ministers at Teheran and at Constantinople?' 'He does.'" Minutes of Evidence taken before the Select Committee, Examination of Sir George Russell Clerk K. C. B. 24th May 1852, Session 4 November 1852–20 August 1853, Reports from Committees: Thirty-Two Volumes, Vol. 30., 145. https://www.google.co.uk/books/edition/Parliamentary_Papers/1ZcSAAAAYAAJ
+[^33]: “Fine Arts,” The Athenaeum, February 5, 1848, pp. 146.
+[^34]: "Clerk, Sir George Russell (1800-1889)... He was Lieutenant-Governor of the N. W. P., June to Dec. 1843: Provisional Member of the Supreme Council, 1844: twice Governor of Bombay, from 1847 to 1848: K. C. B.: and from 1860-2." C. E. Buckland, Dictionary of Indian Biography (London: 1906), 84. https://archive.org/details/dictionaryofindi00buckuoft
+[^35]: “The Bombay Times gives some account of a portion of the last packages of Nimroud marbles despatched from thence for England, on board the Jumna. The articles there exhibited were "a fragment – the feet and ancles [sic] – of a gigantic ox, and the head of a king in relief, in very fine preservation, both cut in gypsum. Besides these, was a basket full of vases, lamps, and other utensils, mostly in terra cotta, and of very elegant patterns. One small urn was of fine white alabaster. The principal object of attention was a beautiful obelisk of black marble, six feet high, and in the most perfect state of preservation, – the polish unaffected by three thousand years of inhumation, and the lustre hardly gone. This marble is much more perfect than any of the gypsums with which it is contemporaneous. About one-third of it is covered all round with inscriptions in cuneiform characters; the other two-thirds are decorated with sculptures in compartments. There are five compartments on each side, – twenty, consequently, in all. They are sunk about one-forth of an inch, and occupied by figures of men, horses, camels, tigers, deer, and monkeys, in relief. The whole seems to represent a procession bringing gifts to the king, – who, along with his courtiers, is represented at the top of the stone." Castings in plaster of Paris, for the study of the local antiquaries, were taken from the obelisk while at Bombay.” “Fine-art gossip", The Athenaeum, No. 1078 (Saturday June 24th, 1848), 635.
+[^36]: “Fine-art gossip", The Athenaeum, No. 1078 (Saturday June 24th, 1848), p. 635.
+[^37]: “...certain of the cases had, in fact, been opened at Bombay. It was stated that the contents of five only had been exhibited to the public in the Dockyard, and that this had occurred only in the course of their being re-packed…” Cyril John Gadd, The Stones of Assyria (London, 1936), 50.
+[^38]: Charles Rathbone Low, History of the Indian Navy (1613-1863) Volume 2 (London, 1877), 203.
+[^39]: Julian Reade, "Nineteenth-Century Nimrud: Motivation, Orientation, Conservation," in New Light on Nimrud: Proceedings of the Nimrud Conference 11th-13th March 2002, eds. J.E. Curtis, H. McCall, D. Collon and L. al-Gailani Werr (British Institute for the Study of Iraq, 2008), 16.
+[^40]: https://catalogues.royalsociety.org/CalmView/Record.aspx?src=CalmView.Catalog&id=EC%2f1846%2f07
+[^41]: ‘The Bombay Monthly Times. From 20th May to 18th June, 1848 contained a report on the monthly Meeting of the Bombay Royal Asiatic Society of 11 May 1848, at which Dr. Buist gave a paper on The Nimroud Obelisk of which plaister casts had been made. … In the meanwhile on the Bombay docks “it was the most anxious wish of the late Governor –and we believe of every member of the Council– that [the antiquities] should be exhibited to the public and casts in plaister taken of them. After some six weeks’ delay a single obelisk with some fragments were shown: the rest were at once sent on board as soon as they could be returned – the public saw nothing of them whatever.”’ Geoffrey Turner, The British Museum's Excavations at Nineveh, 1846-1855 (Brill, 2020), 78.
+[^42]: Cyril John Gadd, The Stones of Assyria (London, 1936), 49.
+[^43]: Cyril John Gadd, The Stones of Assyria (London, 1936), 50.
+[^44]: “Among…[those] who participated in the Bombay incident and maltreated the contents of Layard’s packing cases there was, it is proposed, one William Wainwright who appropriated the eight relief fragments his daughter H. G. Wainwright handed back to the British Museum in 1897.” Geoffrey Turner, The British Museum's Excavations at Nineveh, 1846-1855 (Brill, 2020), 79. See https://www.britishmuseum.org/collection/term/BIOG63132
+[^45]: https://www.britishmuseum.org/collection/object/W_1897-1008-5
+[^46]: https://www.britishmuseum.org/collection/object/W_1897-1008-1
+[^47]: Austen Henry Layard, Nineveh and its Remains (London: 1849), 399.
+[^48]: David Lyon and Rif Winfield, The Sail and Steam Navy List: All the Ships of the Royal Navy, 1815-1889 (Chatham, 2004), 128.
+[^49]: “… it was decided that they should be forwarded to England in one of the new sailing-ships then being built for the Royal Navy at Bombay. For this purpose H. M. brig Jumna was selected: she took on board all fifty-five cases which had reached Bombay, and sailed on April 12th, 1848.” Cyril John Gadd, The Stones of Assyria (London, 1936), 49.
+[^50]: “The Lost Brig Jumna,” The Mercury (Hobart, Tasmania), Saturday 22 April 1882, 2.
+[^51]: Cyril John Gadd, The Stones of Assyria (London, 1936), 49.
+[^52]: Charles Rathbone Low, History of the Indian Navy (1613-1863) Volume 2 (London, 1877), 200.
+[^53]: "Societies", The Athenaeum, No. 1095 (Saturday May 20th, 1848), 510-511.
+[^54]: “Shipping Intelligence”, Liverpool Albion (Monday April 24th, 1848), 7.
+[^55]: Henry Piddington, “A Nineteenth Memoir on the Law of Storms in the Indian and China Seas, being the Cyclones of the Sir Howard Douglas and of H. M. Brig Jumna in the Southern Indian Ocean. January to April, 1848,” Journal of the Asiatic Society 50 (1850), 349-389.
+[^56]: “...the brig Jumna, under the command of Lieut. RODNEY, from Bombay to England, on the 23rd April, at 3 A.M. … was between or near the tracks of two larger Cyclones, travelling down to the S.S.E., while she herself was on the verge and within the influence of a much smaller one...” Henry Piddington, The Sailor's Horn-Book for the Law of Storms (London, 1860), 209-210. Also, “...the Jumna was bringing down with her another small Cyclone, and... we can easily understand that at the point where the two [large cyclones] approximated and combined, the fury of the tempest might be much augmented and the track subject to some variation.” Henry Piddington, “A Nineteenth Memoir on the Law of Storms in the Indian and China Seas, being the Cyclones of the Sir Howard Douglas and of H. M. Brig Jumna in the Southern Indian Ocean. January to April, 1848,” Journal of the Asiatic Society 50 (1850), 381.
+[^57]: Henry Piddington, “A Nineteenth Memoir on the Law of Storms in the Indian and China Seas, being the Cyclones of the Sir Howard Douglas and of H. M. Brig Jumna in the Southern Indian Ocean. January to April, 1848,” Journal of the Asiatic Society 50 (1850), 380.
+[^58]: “When the three Cyclones met, the fury of the wind became irresistible, and H. M. Ship was upset, but fortunately righted, by cutting away her mainmast.” Henry Piddington, The Sailor's Horn-Book for the Law of Storms (London, 1860), 210.
+[^59]: Henry Piddington, “A Nineteenth Memoir on the Law of Storms in the Indian and China Seas, being the Cyclones of the Sir Howard Douglas and of H. M. Brig Jumna in the Southern Indian Ocean. January to April, 1848,” Journal of the Asiatic Society 50 (1850), 358-359. The article also provides extracts from the ship’s logs giving the ship’s coordinates at various points in the storm: [23rd April 0300 – 8.59 S, 85.34 E; 23rd April 1200 – 10.28 S, 85.0 E; 23rd April 1600 – 11.08 S, 85.0 E; 24th April 1045 – 11.31 S, 84.54 E; 24th April 1200 – 10.14 S, 85.50 E]
+[^60]: “On the 23rd she was caught in a great storm, dismasted, and in considerable danger of floundering, but succeeded at last in weathering the tempest, and making Trincomalee in Ceylon, where she was ordered to refit.” Cyril John Gadd, The Stones of Assyria (London, 1936), 49.
+[^61]: “...and making Trincomalee in Ceylon, where she was ordered to refit. After much delay occasioned by this necessity she set sail again…” Cyril John Gadd, The Stones of Assyria (London, 1936), 49.
+[^62]: "Fine-art gossip", The Athenaeum, No. 1085 (Saturday August 12th, 1848), p. 810.
+[^63]: “The new 16-gun brig _Jumna_, built at Bombay, arrived at Spithead on Wednesday, from Trincomalee, into which port she was driven in May last, much damaged, by a hurricane or monsoon. We hear she has brought home some of the late crew of the Cruiser, 16, found defective. She sailed for Chatham on Thursday morning to be paid off, and fitted for permanent commission. The Jumna sailed from Trincomalee on the 1st of July, on which day the _Inflexible_ left for China. The Jumna arrived at St. Helena, August 20, and Ascension on the 25th.” “Portsmouth Herald”, The Hampshire Advertiser (Saturday October 7th, 1848), 8.
+[^64]: “Portsmouth Herald”, The Hampshire Advertiser (Saturday October 7th, 1848), 8.
+[^65]: “Portsmouth Herald”, The Hampshire Advertiser (Saturday October 7th, 1848), 8.
+[^66]: “The Jumna, 16, Acting Commander M. Rodney, anchored at Spithead, on Tuesday evening from Bombay. She had a most boisterous passage. She has ben ordered to Chatham to be paid off, and was to have left last evening.” “The Navy,” London Evening Standard (Thursday Oct 5th, 1848), 8.
+[^67]: Holger Hoock, "The British State and the Anglo-French Wars Over Antiquities, 1798-1858," The Historical Journal 50.1 (2007), 67, n. 85.
+[^68]: “The new brig Jumna, 16, from Bombay, is paid off at Chatham.” The Hampshire Advertiser (Saturday October 14th, 1848), 8.
+[^69]: "Fine-art gossip", The Athenaeum, No. 1095 (Saturday October 21st, 1848), p. 1057.
+[^70]: “The packages, fifty in number, were permitted by the authorities at Sheerness to be at once sent up to London under seals, to undergo the Custom-house examination in presence of the authorities of the Museum, with a view to avoiding the risks attendant on the disturbance of articles of their valuable character and fragile nature.” "Fine-art gossip", The Athenaeum, No. 1095 (Saturday October 21st, 1848), 1057.
+[^71]: Cyril John Gadd, The Stones of Assyria (London, 1936), 48.
+[^72]: “A letter was written to the Government of Bombay and it was discovered that the cases, while lying on the wharf at Bombay, had been opened by members of the British community.” Gordon Waterfield, Layard of Nineveh (London, 1963), 188.
+[^73]: Synopsis of the Contents of the British Museum, 55th ed (British Museum, 1850), 112.
+[^74]: "Fine-art gossip", The Athenaeum, No. 1099 (Saturday November 18th, 1848), 1152.
