@@ -6,7 +6,6 @@ category: Trips
 tags: Site-Visit Tin Late-Bronze-Age
 excerpt: "'One of the knottiest problems in the archaeology of metal sources.'"
 toc: true
-toc_sticky: false
 header:
   image: /assets/images/from-cornwall-to-canaan/mothecombe-beach-erme-estuary.jpg
   caption: Mothecombe Beach in the Erme Estuary, Southern Devonshire Coast, England
@@ -23,7 +22,7 @@ But, as far as Layard’s book goes, as soon as the obelisk is sent from Nimrud 
 
 Let’s get started.
 
-Discovery
+# Discovery
 
 In November 1845, a man whose name is well known to anyone with even a passing interest in Assyriology, arrived in Mosul – a town in modern day northern Iraq, in the area known at that time as “Turkish Arabia”.
 
@@ -57,7 +56,7 @@ But what an obelisk! In a letter to his aunt Sarah Layard wrote that the “most
 
 After making his sketches, Layard packed up the obelisk ready to be transported with the next batch of artefacts addressed to the British Museum, and, as he explains in his book, “A party of trustworthy Arabs were chosen to sleep near it at night; and I took every precaution that the superstitions and prejudices of the natives of the country, and the jealousy of rival antiquaries, could suggest.”16 He wasn’t taking any chances. The obelisk was not going to get robbed.
 
-From Nimrud to Basrah
+# From Nimrud to Basrah
 
 A few weeks later the consignment was ready – Christmas day was the day. In what is the closing scene of his book Layard describes how he had his men load all the artefacts onto what he described as “rotten and unwieldy” buffalo carts that would cover the short distance from the mound of Nimrud to the Tigris river, and how at the river bank he had them loaded onto rafts bound for Baghdad.17 The last line of his book goes like this: “I watched them until they were out of sight, and then gallopped [sic] into Mosul to celebrate the festivities of the season, with the few Europeans whom duty or business had collected in this remote corner of the globe.”18 What a life.
 
@@ -71,7 +70,7 @@ That’s out-and-out intellectual property theft, and from other stuff I’ve re
 
 So, the obelisk’s journey didn’t get off to a good start. [[MAP OF TIGRIS FROM NIMRUD TO BASRAH]] But, at least once Rawlinson was done taking his liberties, he did put the artefacts back on “native river craft” and sent them downstream to Basrah, and on arrival in April (1847) they were stored in the East India Company’s naval depot ready for onward shipping.21 And that was the next hurdle.
 
-From Basrah to Bombay
+# To Bombay after long delay
 
 Steam ships weren’t really yet a thing, and it would be more than 20 years before the Suez Canal was opened, so to get to London the Obelisk was to take the normal form of global transport in what was known as the Age of Sail – a sailing ship. But to get on a proper sail ship the obelisk first had to make its way to a major port. The closest one to Basrah was 3,000 km away in Bombay, or as it’s known today, Mumbai. So, getting to Bombay was the plan.
 
@@ -87,7 +86,7 @@ An obscure passage in Volume 2 of Charles Rathbone Low’s History of the Indian
 
 And it’s in Bombay where things really start going wrong.
 
-Bombay
+# Barbarity in Bombay
 
 It’s not exactly clear what precise date the Elphinstone arrived in Bombay harbour, but a report on the 5th of February 1848 in the Fine Arts column of the London paper The Athenaeum reports on a report in the Bombay Times reporting on the arrival of “cultured slabs from Mosul, forwarded by Major Rawlinson to the Governor”.30 When Layard first read this report he was so confused by its garbled details that he didn’t know if the report in question was about his artefacts at all!31
 
@@ -115,7 +114,7 @@ The first of these artefacts that you can go see for yourself is a cracked relie
 
 The second of the artefacts Wainwright pilfered is displayed in the Museum’s “Assyria: Nineveh” area near the end of room 9, directly below the well known Phoenician ship relief.46 It’s of an Assyrian male fishing in a pond. It’s quite cool to see it listed on Layard’s manifest in his book – it’s item 74.47 It’s a beautiful little fragment – for years I’ve enjoyed it every time I’ve walked through this gallery though I never knew the backstory to it.
 
-Sailing to Ceylon/Disaster on the journey home
+# Cyclones to Ceylon
 
 Anyway, all this time that the Obelisk had been on the dockside at Bombay harbour, workmen in the same harbour had been finishing off the construction of a new brig for the Royal Navy, the HMS Jumna;48 it was this ship that was to transport Layard’s artefacts to London.49
 
@@ -145,7 +144,7 @@ But this is not the news that reached Layard’s ears in London. On August 12th 
 
 It’s hard to imagine Layard reading that report and him not having a stroke. First the artefacts suffered intellectual property theft in Baghdad. Then they were stuck in Basrah for the best part of a year. Then they were robbed in Bombay. And now they’re at the bottom of the ocean! Poor Layard – unknown to him he was an early victim of Fake News.
 
-The final leg/Arrival in London
+# The final leg to London
 
 It now being midsummer after spending a couple of months under repairs in Trincomalee, the Jumna set off for London on July 1st 1848.63 It picked up the trade winds, sailed past Madagascar and around the Cape of Good Hope, arriving on August 20th on the tiny southern-Atlantic island of St Helena.64 Five days later, on August 25th, the Jumna sailed past Ascension Island65, an even smaller rock sticking out of the ocean than St Helena is. Six more weeks went by, and on October 3rd the Jumna lowered its anchor at Spithead just outside Portsmouth Harbour.66 Finally, 10 days later, on the 13th of October 184867 the HMS Jumna reached its final destination and sailed into Chatham Docks, east of London.68
 
