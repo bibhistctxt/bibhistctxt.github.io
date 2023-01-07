@@ -30,7 +30,7 @@ In November 1845, a man whose name is well known to anyone with even a passing i
 
 Austen Henry Layard, according to one of his friends, was the man for the task at hand. He was described by one guy as being “excellently fitted for the work of an explorer and excavator, strong, robust, determined, … active, energetic, and inured to hardship by his previous travels in wild regions.”[^1]
 
-{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/02_austen_henry_layard.jpg" caption="Austen Henry Layard" %}
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/02_austen_henry_layard.jpg" caption="Our protagonist, Austen Henry Layard in Albanian dress. Austen Henry Layard, Nineveh and its Remains, ed. H. W. F. Saggs (New York: Praeger, 1970)." %}
 
 And that’s what Layard had come for – to excavate a site he’d come across on his previous trips. Funded by Sir Stratford Canning, the British ambassador to Constantinople[^2], Layard’s objective was to excavate Nimrud, a site down the river from Mosul that at the time he thought was Nineveh. It would be quite a while before he figured out that Nimrud _wasn’t_ Nineveh, but that’s a different story.
 
@@ -38,11 +38,11 @@ On November 8th 1845, after presenting his credentials to the local government[^
 
 After a few days poking around, he set up camp – you can see it on the following map, very close to the mound of Nimrud where he was excavating.
 
-{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/03_map_layards_hut.jpg" caption="Layard's map of Nimrud - note the Tigris river, Layard's campsite, and ancient Nimrud." %}
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/03_map_layards_hut.jpg" caption="An early map of Nimrud - note the Tigris river, Layard's campsite, and ancient Nimrud. Felix Jones, 'Vestiges of Assyria, sheet 2d shewing the positions and plan of the ancient cities of Nimrud and Selamiyeh' (1855)." %}
 
 For several months he and the local workmen he’d hired for the job made great progress, focusing mainly in a couple of areas – excavating what are now known as the North-West and South-West palaces. He also opened experimental trenches all over the mound[^5] and found some pretty awesome stuff in them too.
 
-{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/04_general_plan_layard_excavations.jpg" caption="General Plan - Excavation of Nimrud." %}
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/04_general_plan_layard_excavations.jpg" caption="'General Plan of Excavation of Nimroud' - Austen Henry Layard, Nineveh and its Remains, ed. H. W. F. Saggs (New York: Praeger, 1970), Plan 1." %}
 
 One of these experimental trenches was dug in the “central area” of the mound, marked ‘J’ on Layard’s maps:
 
@@ -58,7 +58,7 @@ On November 1st 1846[^8], he had his working parties start digging at a number o
 
 After giving his men instructions Layard galloped off for Mosul. He’d hardly gone far at all when, back in the trench, his workmen found the corner of what ended up being the Black Obelisk. They uncovered the 6 foot length of it and the superintendent sent someone after Layard, who turned back straight away. On his return Layard and his men pulled the obelisk out of the trench using ropes, and stood the obelisk upright.[^11]
 
-{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/07_standing_black_obelisk.jpg" caption="The Black Obelisk standing upright" %}
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/07_standing_black_obelisk.jpg" caption="The Black Obelisk standing upright. Austen Henry Layard, A Popular Account of Discoveries at Nineveh (London: 1851), 225." %}
 
 And, that was the only thing they found in that 50 foot long trench. The excavations run by the British School of Archaeology in Iraq in 1952 dug in what they hoped was the same area of Layard’s “central area” trench but also found nothing.[^12] The trench produced one obelisk. That’s it.
 
@@ -74,7 +74,7 @@ After making his sketches, Layard packed up the obelisk ready to be transported 
 
 A few weeks later the consignment was ready – Christmas day was the day. In what is the closing scene of his book Layard describes how he had his men load all the artefacts onto what he described as “rotten and unwieldy” buffalo carts that would cover the short distance from the mound of Nimrud to the Tigris river, and how at the river bank he had them loaded onto rafts bound for Baghdad.[^17]
 
-{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/09_transporting_bull.jpg" caption="The buffalo carts being used to transport one of the bull statues" %}
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/09_transporting_bull.jpg" caption="The buffalo carts being used to transport one of the bull statues; the transportation of the obelisk would have been a similar sight. 'Procession of the Bull beneath the mound of Nimroud', Austen Henry Layard, A Popular Account of Discoveries at Nineveh (London: 1851), 296. " %}
 
 The last line of his book goes like this: “_I watched them until they were out of sight, and then gallopped [sic] into Mosul to celebrate the festivities of the season, with the few Europeans whom duty or business had collected in this remote corner of the globe_.”[^18] What a life.
 
@@ -216,7 +216,7 @@ And, it’s bizarre to think about it now, but the obelisk was on display for mo
 [^18]: Austen Henry Layard, Nineveh and its Remains (London: 1849), 372.
 [^19]: Cyril John Gadd, The Stones of Assyria (London, 1936), 41-42.
 [^20]: George Rawlinson, Memoir of Sir Henry Rawlinson (1898), 153-154.
-[^20a]: From the archives of the Royal Asiatic Society: 'Addressed to “E Norris [as above] Baghdad 27th Jany 1847 My dear Sir” Marked “Confidential” The recent extraordinary discoveries by Layard at Nimrud have caused him to set aside his work on the Persian vocabulary and set about Assyrian in earnest. Description of a black marble obelisk, but asks Norris not to publish this for fear of upsetting Layard and the Trustees of the British Museum. Gives some of the results of his Assyrian researches including the identification of a genealogical series of the four primeval kings of Assyria but concludes that he was wrong in his last letter in stating that there were two king Nebuchadnezzars [Norris adds the note “see letter R”.] Comments on the “extraordinary laxity of the Assyrian character”. He can read much of the script phonetically, but can get no further because the materials for comparison are too scanty. He is not prepared to publish his key yet unless “Dr Hincks or the Savans of France & Germany are prepared to come forward” as “I should like to penetrate a little deeper into the primitive Assyrian records before I give up the keys of the enquiry.” He will also need to consult Layard and the Commissioners of the British Museum before publishing any results derived from a study of the inscriptions on the items which are their property. Encloses a letter to the Commissioners for that purpose. [Letter P in III/04]'. [https://royalasiaticsociety.org/list-of-the-ras-collections-of-sir-henry-creswicke-rawlinson-bart-1810-1895/](https://royalasiaticsociety.org/list-of-the-ras-collections-of-sir-henry-creswicke-rawlinson-bart-1810-1895/)
+[^20a]: From the archives of the Royal Asiatic Society: 'Addressed to “E Norris [as above] Baghdad 27th Jany 1847 My dear Sir” Marked “Confidential” The recent extraordinary discoveries by Layard at Nimrud have caused him to set aside his work on the Persian vocabulary and set about Assyrian in earnest. Description of a black marble obelisk, but asks Norris not to publish this for fear of upsetting Layard and the Trustees of the British Museum. Gives some of the results of his Assyrian researches including the identification of a genealogical series of the four primeval kings of Assyria but concludes that he was wrong in his last letter in stating that there were two king Nebuchadnezzars [Norris adds the note “see letter R”.] Comments on the “extraordinary laxity of the Assyrian character”. He can read much of the script phonetically, but can get no further because the materials for comparison are too scanty. He is not prepared to publish his key yet unless “Dr Hincks or the Savans of France & Germany are prepared to come forward” as “I should like to penetrate a little deeper into the primitive Assyrian records before I give up the keys of the enquiry.” He will also need to consult Layard and the Commissioners of the British Museum before publishing any results derived from a study of the inscriptions on the items which are their property. Encloses a letter to the Commissioners for that purpose. [Letter P in III/04]'. See [https://royalasiaticsociety.org/list-of-the-ras-collections-of-sir-henry-creswicke-rawlinson-bart-1810-1895/](https://royalasiaticsociety.org/list-of-the-ras-collections-of-sir-henry-creswicke-rawlinson-bart-1810-1895/)
 [^21]: Cyril John Gadd, The Stones of Assyria (London, 1936), 41.
 [^22]: Cyril John Gadd, The Stones of Assyria (London, 1936), 42.
 [^23]: Cyril John Gadd, The Stones of Assyria (London, 1936), 42.
