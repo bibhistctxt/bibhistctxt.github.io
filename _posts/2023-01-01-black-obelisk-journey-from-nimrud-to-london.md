@@ -100,9 +100,13 @@ Steam ships weren’t really yet a thing, and it would be more than 20 years bef
 
 But, for now, the obelisk along with the rest of the artefacts it floated down river with, was stuck in Basrah. As Gadd notes, “_conveying [the obelisk] farther, on the way to Bombay or England, proved a difficult problem,_”[^22] because “_trade was almost completely stagnant in the Gulf at that time, and the visit of any European vessel to Basrah a rarity._”[^23] So the artefacts collected dust in some storage unit in Basrah’s East India Company naval depot. Occasionally a ship large enough to transport the artefacts came into port, but for one reason or another the instruction to transport the artefacts wasn’t received by the captain, or was just plain ignored.[^24]
 
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/13_bridge_over_ashar_creek_basrah.jpg" caption="Old Basra, where the Obelisk collected dust ([LOC](https://www.loc.gov/pictures/item/2014707718/))" %}
+
 Spring turned into summer; autumn came and went, and by December Layard was back in London having travelled via Constantinople, Italy, and Paris.[^25] In the same month, out of exasperation I presume, Rawlinson came down from Baghdad to Basrah. In what was great timing, while he was there the East India Company Sloop-of-War _Clive_ arrived at the port. Rawlinson instructed the captain to transport the artefacts to Bombay who responded that he’d do the best he could. But, Sloops-of-War weren’t big ships and he was only able to take 20 cases, and, only as far as Bushehr in what today is modern Iran – a measly 350km of the 3000km journey to Bombay.[^26]
 
 At least, the obelisk was finally on its way – a good job too as the next shipment of artefacts wouldn’t take place for another year![^27]
+
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/14_sloop_of_war_uss_constellation.jpg" caption="A Sloop-of-War (_not_ the Clive)" %}
 
 As the captain of the _Clive_ agreed, they transported the cases as far as Bushehr, unloading Layard’s artefacts there. Fortunately for Layard, Senior Naval Officer Captain William Lowe had sailed into Bushehr harbour on the 1st of January 1848 after a successful mission retrieving a couple of boats that had been stolen by some local sheikh.[^28] Layard’s artefacts, including the obelisk, were loaded onto Captain Lowe’s ship; another Sloop-of-War named the _Elphinstone_. 
 
@@ -197,6 +201,10 @@ And, it’s bizarre to think about it now, but the obelisk was on display for mo
 **Featured image**
 
 * My photo of the Black Obelisk superimposed on Layard's map of Nimrud (public domain) and Raden Saleh's "Ships on a Stormy Sea" (public domain)
+
+**Further reading**
+
+* [Nimrud: Materialities of Assyrian Knowledge Production - The Black Obelisk of Shalmaneser III](http://oracc.museum.upenn.edu/nimrud/livesofobjects/blackobelisk/index.html)
 
 **Footnotes**
 
