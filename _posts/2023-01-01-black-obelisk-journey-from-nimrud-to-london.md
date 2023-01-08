@@ -116,11 +116,17 @@ And it’s in Bombay where things _really_ start going wrong.
 
 # Barbarity in Bombay
 
-It’s not exactly clear what precise date the _Elphinstone_ arrived in Bombay harbour, but a report on the 5th of February 1848 in the Fine Arts column of the London paper _The Athenaeum_ reports on a report in the _Bombay Times_ reporting on the arrival of “cultured slabs from Mosul, forwarded by Major Rawlinson to the Governor”.[^30] When Layard first read this report he was so confused by its garbled details that he didn’t know if the report in question was about his artefacts at all![^31]
+It’s not exactly clear what precise date the _Elphinstone_ arrived in Bombay harbour, but a report on the 5th of February 1848 in the Fine Arts column of the London paper _The Athenaeum_ reports on a report in the _Bombay Times_ reporting on the arrival of “cultured slabs from Mosul, forwarded by Major Rawlinson to the Governor”.[^30]
+
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/15_bombay_harbour.jpg" caption="Bombay Harbour, Francis Frith" %}
+
+When Layard first read this report he was so confused by its garbled details that he didn’t know if the report in question was about his artefacts at all![^31]
 
 It was the chain of command in the British Empire’s hierarchy that the Resident at Baghdad reported to the Governor at Bombay,[^32] so regardless of the fact that the cases of artefacts were addressed to the Trustees of the British Museum, Rawlinson had sent the artefacts to Bombay for the attention of “The Governor”[^33].  The Governor of Bombay was one George Russell Clerk.[^34]
 
 On the _Ephinstone_’s arrival the cases that had been so carefully packed by Layard and repacked by Rawlinson were unloaded onto the dockside and unceremoniously opened by Clerk’s people.
+
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/16_bombay_dockyard.jpg" caption="The Dockyard in the Port of Bombay, Francis Frith" %}
 
 Again, a note in The Athenaeum’s “Fine-Art Gossip” column helps to fill in the gaps. June 24th 1848’s column[^35] brought its readers’ attention to a Bombay Times article mentioning _an exhibition of Layard’s Artefacts_. And, it wasn’t just one or two small items that were on display; from the description given in the Bombay Times article quoted by The Athenaeum, it was loads of items. But for our purposes, here’s the interesting part: after listing off all sorts of items the Bombay Times article mentions,
 
@@ -128,7 +134,9 @@ Again, a note in The Athenaeum’s “Fine-Art Gossip” column helps to fill in
 
 Now, if you think these objects were displayed in some temporary exhibition in a properly equipped museum, you’d be wrong. They were displayed in the dockyard.[^37]
 
-The person responsible for the artefacts’ display was one Dr. Buist: a preacher, the Editor of the Bombay Times[^38], “the city’s leading scientist”[^39], a frequent contributor of scholarly articles to the Journal of the Bombay Branch of the Royal Asiatic Society, and a Fellow of the prestigious Royal Society[^40]. Not only did he exhibit the artefacts on the dockside, he lectured on the Obelisk at the monthly Meeting of the Bombay Royal Asiatic Society.[^41]
+The person responsible for the artefacts’ display was one Dr. George Buist: a preacher, the Editor of the Bombay Times[^38], “the city’s leading scientist”[^39], a frequent contributor of scholarly articles to the Journal of the Bombay Branch of the Royal Asiatic Society, and a Fellow of the prestigious Royal Society[^40]. Not only did he exhibit the artefacts on the dockside, he lectured on the Obelisk at the monthly Meeting of the Bombay Royal Asiatic Society.[^41]
+
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/17_buist.jpg" caption="Dr George Buist, 1805 - 1860. Editor of the Bombay Times." %}
 
 Then, after not only exhibiting the obelisk at the dockside and lecturing on it, Dr Buist had the audacity to add yet further to the “unjustifiable liberties”[^42] he’d taken with Layard’s discoveries. Instead of shamefacedly and very carefully repacking the obelisk and other artefacts and sending them on their way, he arranged for a number of plaster casts of the obelisk to be taken. But, of course, this was fine because before doing so he gave “a personal pledge that no harm could result”[^43] from taking an unpublished artefact delicately inscribed in a writing system that had yet to be properly deciphered and covering it with Plaster of Paris, waiting for it to dry, and then ripping it off. 
 
