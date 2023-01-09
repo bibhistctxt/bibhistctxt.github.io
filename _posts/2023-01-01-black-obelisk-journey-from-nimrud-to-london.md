@@ -166,7 +166,11 @@ It’s of an Assyrian male fishing in a pond. It’s quite cool to see it listed
 
 Anyway, all this time that the Obelisk had been on the dockside at Bombay harbour, workmen in the same harbour had been finishing off the construction of a new brig for the Royal Navy, the HMS _Jumna_;[^48] it was this ship that was to transport Layard’s artefacts to London.[^49]
 
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/22_jumna.jpg" caption="HMS _Jumna_, the Royal Navy brig that carried the Black Obelisk to London" %}
+
 From Bombay, ships would sail to London by first sailing around the bottom of the Indian subcontinent and up the other side, picking up goods from port cities like Calcutta (now Kolkata). From there it would sail south down India’s eastern shore for Ceylon, modern Sri Lanka. Off the Sri Lankan coast the ships would pick up the trade winds that would blow them down past Madagascar, and around Africa’s southern tip at the Cape of Good Hope. From there the ship would sail north through the Atlantic around Western Africa, past Spain, eventually reaching Chatham Docks, just east of London in the Thames Estuary.
+
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/23_jumna_planned_route.jpg" caption="The route in the Age of Sail from Bombay, via Calcutta, to London. Map is from A. Fullarton, 'British Empire Throughout the World Exhibited In One View', in The Royal Illustrated Atlas Of Modern Geography (1872), 23. ([Source](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~231~20040:British-Empire-Throughout-the-World))" %}
 
 But, the HMS Jumna’s maiden voyage would not be so idyllic. In fact, the ship’s story begins and ends in disaster. We’ll get into its disastrous maiden voyage carrying the obelisk in a minute, but it’s worth knowing about the ships’ poignant end.
 
@@ -176,15 +180,23 @@ So, back in Bombay harbour at the _beginning_ of the Jumna’s career… The shi
 
 The first few days were uneventful. As it happened, 3 days into the voyage, on April 15th, Layard happened to be lecturing in London at the Royal Asiatic Society – he had no way of knowing that his artefacts had begun the last leg of their journey to the British Museum. He discussed the particulars of the dating of the various artefacts, with people in the audience disagreeing on just how old the artefacts were.[^53] Little did he know what was in store for the very artefacts he was busy chatting about.
 
-The Jumna had sailed around the bottom of the Indian subcontinent and up the other side, arriving in the port city of Calcutta. The next day, the 22nd of April, after loading up more goods bound for London it set off again heading south for Ceylon.[^54] That evening, the Jumna encountered bad weather; such bad weather in fact that it got written up in an article in the 1850 Journal of the Asiatic Society.[^55] And, when we say _bad weather_, the Jumna managed to sail straight into the point where _three_[^56] cyclones collided, and it was stuck in that tempest for the best part of _two days_[^57] almost sinking to the bottom of the sea. Here’s how it played out.
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/24_calcutta_harbour.jpg" caption="Calcutta harbour" %}
+
+The Jumna had sailed around the bottom of the Indian subcontinent and up the other side, arriving in the port city of Calcutta. The next day, the 22nd of April, after loading up more goods bound for London it set off again heading south for Ceylon.[^54]
+
+That evening, the Jumna encountered bad weather; such bad weather in fact that it got written up in an article in the 1850 Journal of the Asiatic Society.[^55] And, when we say _bad weather_, the Jumna managed to sail straight into the point where _three_[^56] cyclones collided, and it was stuck in that tempest for the best part of _two days_[^57] almost sinking to the bottom of the sea. Here’s how it played out.
 
 At 3am on April 23rd, the gale force 5 cyclone with its thunder and lightning increased to a gale force 7 or 8. As the hours wore on it got worse and worse such that at 8:45am the next morning the storm was a gale force 10. It stayed at that level until 3pm when it dropped to a mild force 9 gale, until the ship sailed into the eye of the storm where it was all calm at 4pm. At 4:30pm they were back in a force 6 cyclone, and at 7pm they were back in force 10. From 8pm to midnight the storm was between a force 10 to 12, but was “_said to be higher than the figures can express_” – the storm was literally off the scale. This lasted for quite a few hours, and at 10:45am the next morning, according to the ship’s logs, the ship “_broached to and went over and the mainmast was cut away to right her_”.[^58]
 
-In non-sailor speak "broached to" means that as a result of being pushed from behind either by a massive wave or a particularly hellish gust of wind, the boat did a forward flip, landing upside down. And because this was in the days before boats were self-righting, the crew had to cut away the mast to get the ship the right way up again. Later in the day the storm finally calmed.[^59]
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/25_storm_at_sea.jpg" caption="(not our) Storm at sea, by Raden Saleh (1840)" %}
+
+In non-sailor speak "broached to" means that as a result of being pushed from behind either by a massive wave or a particularly hellish gust of wind, the boat was flipped over, landing upside down. And, because this was in the days before boats were self-righting, the crew had to cut away the mast to get the ship the right way up again. Later in the day the storm finally calmed.[^59]
 
 This, it’s probably fair to say, is not really what you want happening to one of the most important archaeological finds ever.
 
 What remained of the _Jumna_ then limped through the water “under jurymasts” –that is, makeshift masts made out of bits of the ship– and after a few days it slunk into the port of Trincomalee in Ceylon, modern Sri-Lanka.[^60]
+
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/26_trincomalee_harbour.jpg" caption="A ship at the entrance to Trincomalee Harbour. Alastair Mackenzie Ferguson, Souvenirs of Ceylon: A Series of One Hundred and Twenty Illustrations (London: 1869), 47." %}
 
 The ship needed refitting, and this caused quite the delay.[^61] Thankfully, none of Layard’s artefacts had been lost – all was well.
 
