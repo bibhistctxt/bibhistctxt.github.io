@@ -146,9 +146,21 @@ Thankfully, nothing did go wrong with the plaster casts. Sadly, some of the arte
 
 More than fifty years after their discovery, in 1897, one Miss H. G. Wainwright “donated” to the British Museum a number of artefacts that she’d inherited from her father, William Wainwright, who’d been in Bombay at the time Layard’s artefacts were being exhibited in the dockyard.[^44] Most of the artefacts she donated are boxed up in the museum’s archives, but a couple of them are on display.
 
-The first of these artefacts that you can go see for yourself is a cracked relief of some guy’s head[^45], on display in room 56, very close to the famous Flood Tablet. I’ve not been able to find anything that explains why the relief is cracked, so I like to imagine it’s because William Wainwright couldn’t otherwise fit it under his jacket as he wandered away from the dockside where he robbed the artefacts, so he quietly karate chopped it behind the Black Obelisk before stuffing it under his jumper and sauntering off.
+The first of these artefacts that you can go see for yourself is a cracked relief of some guy’s head[^45], on display in room 56, very close to the famous Flood Tablet:
 
-The second of the artefacts Wainwright pilfered is displayed in the Museum’s “Assyria: Nineveh” area near the end of room 9, directly below the well known Phoenician ship relief.[^46] It’s of an Assyrian male fishing in a pond. It’s quite cool to see it listed on Layard’s manifest in his book – it’s item 74.[^47] It’s a beautiful little fragment – for years I’ve enjoyed it every time I’ve walked through this gallery though I never knew the backstory to it.
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/18_cracked_head_location.jpg" caption="The location in the British Museum's Room 55 of the limestone relief of a male head 'donated' by H. G. Wainwright. Screenshot from [Google Maps](https://goo.gl/maps/AKJZDfAauJfpmBzP9)" %}
+
+I’ve not been able to find anything that explains why the relief is cracked, so I like to imagine it’s because William Wainwright couldn’t otherwise fit it under his jacket as he wandered away from the dockside where he robbed the artefacts, so he quietly karate chopped it behind the Black Obelisk before stuffing it under his jumper and sauntering off.
+
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/19_cracked_head.jpg" caption="Limestone relief of a male head, handed in by H. G. Wainwright decades after her father _allegedly_ robbed it from the Bombay dockyard." %}
+
+The second of the artefacts Wainwright pilfered is displayed in the Museum’s “Assyria: Nineveh” area near the end of room 9, directly below the well known Phoenician ship relief:[^46]
+
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/20_man_catching_fish_location.jpg" caption="The location in the British Museum's Room 9 of the 'Man catching fish' relief 'donated' by H. G. Wainwright. Screenshot from [Google Maps](https://goo.gl/maps/yh4RDbWhUrm8hMuC6)" %}
+
+It’s of an Assyrian male fishing in a pond. It’s quite cool to see it listed on Layard’s manifest in his book – it’s item 74.[^47] It’s a beautiful little fragment – for years I’ve enjoyed it every time I’ve walked through this gallery though I never knew the backstory to it.
+
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/21_man_catching_fish.jpg" caption="The 'Man catching fish' relief" %}
 
 # Cyclones to Ceylon
 
