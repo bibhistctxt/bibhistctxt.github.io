@@ -204,7 +204,9 @@ But this is not the news that reached Layard’s ears in London. On August 12th 
 
 “_We are sorry to see that the brig Jumna, which was bringing, as our readers know, a further importation of the Nimroud Antiquities to England, has suffered wreck. The pieces of sculptural marble or alabaster on board exceeded sixty_.”[^62]
 
-It’s hard to imagine Layard reading that report and him not having a stroke. First the artefacts suffered intellectual property theft in Baghdad. Then they were stuck in Basrah for the best part of a year. Then they were robbed in Bombay. And now they’re at the bottom of the ocean! Poor Layard – unknown to him he was an early victim of Fake News.
+It’s hard to imagine Layard reading that report and him _not_ having a stroke.
+
+First the artefacts suffered intellectual property theft in Baghdad. Then they were stuck in Basrah for the best part of a year. Then they were robbed in Bombay. And now they’re at the bottom of the ocean! Poor Layard – unknown to him he was an early victim of Fake News.
 
 # The final leg to London
 
