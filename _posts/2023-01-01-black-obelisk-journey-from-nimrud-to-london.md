@@ -202,6 +202,8 @@ The ship needed refitting, and this caused quite the delay.[^61] Thankfully, non
 
 But this is not the news that reached Layard’s ears in London. On August 12th 1848, the Athenaum newspaper, Layard’s source of news about his precious artefacts, printed a summary of an article in the Bombay Times:
 
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/27_shipwreck_notice.jpg" caption="'Fine-art gossip', The Athenaeum, No. 1085 (Saturday August 12th, 1848), p. 810." %}
+
 “_We are sorry to see that the brig Jumna, which was bringing, as our readers know, a further importation of the Nimroud Antiquities to England, has suffered wreck. The pieces of sculptural marble or alabaster on board exceeded sixty_.”[^62]
 
 It’s hard to imagine Layard reading that report and him _not_ having a stroke.
@@ -210,13 +212,19 @@ First the artefacts suffered intellectual property theft in Baghdad. Then they w
 
 # The final leg to London
 
-It now being midsummer after spending a couple of months under repairs in Trincomalee, the Jumna set off for London on July 1st 1848.[^63] It picked up the trade winds, sailed past Madagascar and around the Cape of Good Hope, arriving on August 20th on the tiny southern-Atlantic island of St Helena.[^64] Five days later, on August 25th, the Jumna sailed past Ascension Island[^65], an even smaller rock sticking out of the ocean than St Helena is. Six more weeks went by, and on October 3rd the Jumna lowered its anchor at Spithead just outside Portsmouth Harbour.[^66] Finally, 10 days later, on the 13th of October 1848[^67] the HMS Jumna reached its final destination and sailed into Chatham Docks, east of London.[^68]
+It now being midsummer after spending a couple of months under repairs in Trincomalee, the Jumna set off for London on July 1st 1848.[^63] It picked up the trade winds, sailed past Madagascar and around the Cape of Good Hope, arriving on August 20th on the tiny southern-Atlantic island of St Helena.[^64] Five days later, on August 25th, the Jumna sailed past Ascension Island[^65], an even smaller rock sticking out of the ocean than St Helena is.
+
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/28_ascension_island.jpg" caption="Ascension Island ([National Archives UK](https://www.flickr.com/photos/nationalarchives/8517429049/in/album-72157632888393506/))" %}
+
+Six more weeks went by, and on October 3rd the Jumna lowered its anchor at Spithead just outside Portsmouth Harbour.[^66] Finally, 10 days later, on the 13th of October 1848[^67] the HMS Jumna reached its final destination and sailed into Chatham Docks, east of London.[^68]
 
 Reporting on the event, the Athenaum wrote,
 
 “_The long-expected marbles from Nimroud, embarked on board the Jumna and which were reported to have been lost at sea, have, we are happy to say, at length arrived..._”[^69]
 
 Normally, goods entering England would be inspected by customs officials on arrival at the docks. But for Layard’s 50 cases, special provision was made. They were were transported “under seals” from the docks to the British Museum, accompanied by customs staff. On arrival at the museum the crates were unsealed in the presence of the customs staff, the museum trustees, and of course, Austen Henry Layard.[^70]
+
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/29_bull_arriving_at_museum.jpg" caption="Artefacts from Nimrud arriving at the British Museum (obviously not the Obelisk). The Illustrated London News (Feb 28th, 1852), 184." %}
 
 Layard’s initial relief at receiving his artefacts back from the dead very quickly turned to outrage. To quote Gadd,
 
@@ -226,9 +234,9 @@ The artefacts had been terribly packed; any order Layard had put them in was gon
 
 Furious with what they’d found, the Trustees of the Museum wrote off to the Governor at Bombay asking what on earth had happened. In reply they received a report mentioning some of the events we saw took place in Bombay.[^72] I imagine that things weren’t helped when the ship “went over” in the cyclones either, so the disorganised mess wasn’t _completely_ the fault of Dr Buist’s men in Bombay, but it was certainly _almost entirely_ their fault.
 
-And so, the customs officials went back to their docks. At last Layard’s artefacts were brought into the museum. They were put on display in the Nimroud Room, with pride of place going to the Black Obelisk.[^73] Almost two years after its initial discovery, and after many adventures, the artefact could rest.
+And so, the customs officials went back to their docks. At last Layard’s artefacts were brought into the museum. They were put on display in the Nimroud Saloon, with pride of place going to the Black Obelisk.[^73] Almost two years after its initial discovery, and after many adventures, the artefact could finally rest.
 
-[[USE PHOTO OF OBEISK STANDING IN NIMRUD SALOON FROM Habershon's The Bible and the British Museum, plate IV, pdf page 50]]
+{% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/30_nimroud_saloon.jpg" caption="After coming through many trials the Black Obelisk finally rests in the British Museum's 'Nimroud Saloon'. Ada R. Habershon, The Bible and the British Museum (London: Morgan & Scott, 1909), 50 (Plate IV)." %}
 
 And, it’s bizarre to think about it now, but the obelisk was on display for more than three years before scholars worked out that the “bearded figure” “in the attitude of awe”[^74] was none other than the Israelite King Jehu. More about that in the next video.
 
