@@ -247,6 +247,7 @@ And, it’s bizarre to think about it now, but the obelisk was on display for mo
 **Further reading**
 
 * [Nimrud: Materialities of Assyrian Knowledge Production - The Black Obelisk of Shalmaneser III](http://oracc.museum.upenn.edu/nimrud/livesofobjects/blackobelisk/index.html)
+* Cyril John Gadd, The Stones of Assyria (London, 1936)
 
 **Footnotes**
 
