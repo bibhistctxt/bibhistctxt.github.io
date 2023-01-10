@@ -3,7 +3,7 @@ layout: single
 title: The Black Obelisk’s journey from Nimrud to London
 date: 2023-01-01 00:01 +0100
 category: Artefacts
-tags: Black-Obelisk Assyrians British-Museum Inscriptions Shallmaneser-III Jehu Layard Rawlinson
+tags: Nimrud Black-Obelisk Assyrians British-Museum Inscriptions Shalmaneser-III Jehu Layard Rawlinson
 excerpt: "The pretty wild ride that the Black Obelisk took from Nimrud, where it was found, to the British Museum, where it's displayed to this day."
 toc: true
 header:
