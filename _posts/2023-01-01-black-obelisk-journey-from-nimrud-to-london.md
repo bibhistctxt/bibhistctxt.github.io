@@ -238,7 +238,7 @@ And so, the customs officials went back to their docks. At last Layard’s artef
 
 {% include figure image_path="/assets/images/black-obelisk-journey-from-nimrud-to-london/30_nimroud_saloon.jpg" caption="After coming through many trials the Black Obelisk finally rests in the British Museum's 'Nimroud Saloon'. Ada R. Habershon, The Bible and the British Museum (London: Morgan & Scott, 1909), 50 (Plate IV)." %}
 
-And, it’s bizarre to think about it now, but the obelisk was on display for more than three years before scholars worked out that the “bearded figure” “in the attitude of awe”[^74] was none other than the Israelite King Jehu. More about that in the next video.
+And, it’s bizarre to think about it now, but the obelisk was on display for more than three years before scholars worked out that the “bearded figure” “in the attitude of awe”[^74] was none other than the Israelite King Jehu. More about that in the next Beyond Apologetics video.
 
 **Featured image**
 
