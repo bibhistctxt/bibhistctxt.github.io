@@ -2,9 +2,9 @@
 layout: single
 title: The Black Obelisk’s journey from Nimrud to London
 date: 2023-01-01 00:01 +0100
-category: Trips
-tags: Site-Visit Tin Late-Bronze-Age
-excerpt: "'One of the knottiest problems in the archaeology of metal sources.'"
+category: Artefacts
+tags: Black-Obelisk Assyrians British-Museum Inscriptions Shallmaneser-III Jehu Layard Rawlinson
+excerpt: "The pretty wild ride that the Black Obelisk took from Nimrud, where it was found, to the British Museum, where it's displayed to this day."
 toc: true
 header:
   image: /assets/images/black-obelisk-journey-from-nimrud-to-london/discovery_disaster_display.jpg
@@ -12,13 +12,13 @@ header:
   teaser: /assets/images/black-obelisk-journey-from-nimrud-to-london/discovery_disaster_display_teaser.jpg
 ---
 
-While preparing my next Beyond Apologetics video on the Black Obelisk of Shalmaneser III, I got a bit distracted reading up on how the artefact was transported from Nimrud in Iraq where it was discovered to the British Museum. One minute I’m reading about the trench it was found in, the next minute I’m reading 19th century shipping logs of the East India Company. Since all the info I found was completely inconsequential to the stuff I usually cover in the Beyond Apologetics videos, I decided to split this stuff out into a separate, uber-niche, and super-nerdy video dedicated to the Obelisk’s journey. It should be interesting to about 3 people.
+While preparing my next Beyond Apologetics video on the Black Obelisk of Shalmaneser III, I got a bit distracted reading up on how the artefact was transported from Nimrud in Iraq where it was discovered to the British Museum. One minute I’m reading about the trench it was found in, the next minute I’m reading 19th century shipping logs of the East India Company. Since all the info I found was completely inconsequential to the stuff I usually cover in the Beyond Apologetics videos, I decided to split this stuff out into a separate, uber-niche, and super-nerdy post dedicated to the Obelisk’s journey. It should be interesting to about 3 people.
 
-So, why make this video at all? Well, because it’s given me a new perspective: I’ve visited many museums around the world; I’ve seen a bazillion artefacts; I’ve read up on their significance; I’ve made little notes in my bible about the context they add to whatever passage I’m looking at; and I’ve spoken at various churches showing how archaeological artefacts can help us interpret scripture better than we otherwise might.
+So, why write this up at all? Well, because it’s given me a new perspective: I’ve visited many museums around the world; I’ve seen a bazillion artefacts; I’ve read up on their significance; I’ve made little notes in my bible about the context they add to whatever passage I’m looking at; and I’ve spoken at various churches showing how archaeological artefacts can help us interpret scripture better than we otherwise might.
 
-But, I’ve never once considered how these artefacts actually got from where they were found, to the museum they’re displayed in. At least, not until I read through Austen Henry Layard’s “Nineveh and its Remains” in preparation for the next Beyond Apologetics video. The book is pretty wild –the man was a proper adventurer it seems, –a real Allan Quatermain figure– but the bit that piqued my interest was his description of how he transported the obelisk. It’s crazy stuff.
+But, I’ve never once considered how these artefacts actually got from where they were found, to the museum they’re displayed in. At least, not until I recently read through Austen Henry Layard’s “Nineveh and its Remains”. The book is pretty wild –the man was a proper adventurer it seems, –a real Allan Quatermain figure– but the bit that piqued my interest was his description of how he transported the obelisk. It’s crazy stuff.
 
-But, as far as Layard’s book goes, as soon as the obelisk is sent from Nimrud the trail goes cold. So I decided to pick up the trail and see how things turned out. And, well, it turns out that it’s a miracle that the obelisk made it to London at all.
+But, as far as Layard’s book goes, as soon as the obelisk is sent from Nimrud the trail goes cold. Wanting a little more detail, I decided to pick up the obelisk's trail and see how things turned out. And, well, it turns out that it’s a miracle that the obelisk made it to London at all.
 
 Let’s get started.
 
