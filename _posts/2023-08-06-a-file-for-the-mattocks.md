@@ -28,25 +28,25 @@ We now get to the point of this post – the word whose translation was changed 
 
 ## The Hebrew
 
-The thing is, the Hebrew underneath the English translation of verse 21 is pretty tricky. And when I say “pretty tricky”, the verse opens with not one, but two hapax-legomena (“Words which occur only once in the Bible”[^1]), one after the other (underlined):
+The thing is, the Hebrew underneath the English translation of verse 21 is pretty tricky. And when I say “pretty tricky”, the verse opens with not one, but two hapax-legomena (“Words which occur only once in the Bible”[^1]), one after the other (highlighted in bold text):
 
->  וְֽהָיְתָ֞ה הַפְּצִ֣ירָה _פִ֗ים_ לַמַּֽחֲרֵשֹׁת֙ [^2] 
+>  וְֽהָיְתָ֞ה **הַפְּצִ֣ירָה פִ֗ים** לַמַּֽחֲרֵשֹׁת֙ [^2] 
 
-As McCarter explains, the meaning of the first hapax-legomenon (“p’tsirah”) remains a mystery[^3]; in modern translations it’s rendered something like “The charge/cost/price was…”[^4]
+As McCarter explains, the meaning of the first hapax-legomenon (פְּצִ֣ירָה, "p’tsirah”) remains a mystery[^3]; in modern translations it’s rendered something like “The charge/cost/price was…”[^4]
 
-The second hapax-legomenon (“pim”) is the word the KJV translators rendered “file”. Rather like the word that comes before it, translators had no idea what to do with it. Other translations up to the first decade of the 20th century rendered the word either the same way the King James Version had it[^5], or they took some other guess.[^6]
+The second hapax-legomenon (פִ֗ים, “pim”) is the word the KJV translators rendered “file”. Rather like the word that comes before it, translators had no idea what to do with it. Other translations up to the first decade of the 20th century rendered the word either the same way the King James Version had it[^5], or they took some other guess.[^6]
 
 And so, for centuries, translations of this passage were pure guesswork.
 
 ## Archaeological discovery
 
-The first step made toward working out the meaning of “pim”, our second hapax-legomenon, was a discovery made during the summer excavation season of 1907 at Gezer:
+The first step made toward working out the meaning of “pim”, our second hapax-legomenon, was a discovery made during the summer excavation season at Gezer in 1907:
 
 {% include figure image_path="/assets/images/a-file-for-the-mattocks/1907-pim-sketch.png" caption="Inscribed weight found at Gezer" %}
 
-Amongst the season’s discoveries published by excavation director, Stewart Macalister, described a tiny, marble, dome-shaped weight of 7.27 grams, inscribed on which were the Hebrew letters פימ (“pim”).[^7] The significance of the artefact, at least as far as 1 Sa 13:21 goes, wasn’t realised at the time.
+Amongst the season’s discoveries published by excavation director, Stewart Macalister, was a tiny, marble, dome-shaped weight of 7.27 grams, inscribed on which were the Hebrew letters פימ (“pim”).[^7] The significance of the artefact, at least as far as 1 Sa 13:21 goes, wasn’t realised at the time.
 
-A few years later, in 1914, one E. J. Pilcher published the thoughts of Samuel Raffaeli, a money-changer-turned-antiquities-dealer-turned-travel-agent-turned-Keeper-of-the-Coin-Collection-of-the-Palestine-Archaeological-Museum.[^8] Raffaeli had been approached by a local from the village of Silwan in Jerusalem wanting to sell a small red stone weight inscribed with the Hebrew letters “pim”, weighing 7.75 grams. Raffaeli quickly made the connection between the “pim” in the biblical text of 1 Sa 13:21 and the “pim” on the weight he held in his hand. Based on this connection he suggested the following translation:
+A few years later, in 1914, one E. J. Pilcher published the thoughts of Samuel Raffaeli, a money-changer-turned-antiquities-dealer-turned-travel-agent-turned-Keeper-of-the-Coin-Collection-of-the-Palestine-Archaeological-Museum.[^8] Raffaeli had been approached by a resident of village of Silwan in Jerusalem wanting to sell a small red stone weight inscribed with the Hebrew letters “pim”, weighing 7.75 grams. Raffaeli quickly made the connection between the “pim” in the biblical text of 1 Sa 13:21 and the “pim” on the weight he held in his hand. Based on this connection he suggested the following translation:
 
 > “And the payment was a payam for the mattocks and for the coulters, and a third of a shekel for the axes, and to sharpen the goads.”[^9]
 
@@ -58,7 +58,7 @@ The important point is this: “pim” could now be translated based on hard evi
 
 The discovery, linking “pim” with a weight, was picked up by bible translators very quickly indeed.
 
-Only 3 years after Raffaeli’s thoughts were published in Palestine Exploration Quarterly, the Jewish Publication Society of America published The Holy Scriptures according to the Masoretic Text[^10] in 1917 and translated the verse in question,
+Only 3 years after Raffaeli’s thoughts were published in Palestine Exploration Quarterly, the Jewish Publication Society of America published _The Holy Scriptures according to the Masoretic Text_[^10] in 1917 and translated the verse in question,
 
 > “And the price of the filing was a pim for the mattocks...”
 
